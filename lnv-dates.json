@@ -1,2194 +1,2242 @@
 [
-  {
-    "Model": "Lenovo 100w Gen 3",
-    "Machine Types": "82HY, 82JO",
-    "Announce Date": "5/24/2022",
-    "Last Order Date": "6/30/2023",
-    "End of Production Date": "7/30/2023",
-    "End of Support Date": "7/30/2028"
-  },
-  {
-    "Model": "Lenovo 100w Gen 4",
-    "Machine Types": "82VK, 82VL",
-    "Announce Date": "4/24/2023",
-    "Last Order Date": "6/30/2025",
-    "End of Production Date": "7/30/2025",
-    "End of Support Date": "7/30/2030"
-  },
-  {
-    "Model": "Lenovo 13w Gen 2",
-    "Machine Types": "82YR, 82YS",
-    "Announce Date": "6/2/2023",
-    "Last Order Date": "6/30/2025",
-    "End of Production Date": "7/30/2025",
-    "End of Support Date": "7/30/2030"
-  },
-  {
-    "Model": "Lenovo 14w Gen 2",
-    "Machine Types": "82N8, 82N9",
-    "Announce Date": "3/28/2023",
-    "Last Order Date": "6/30/2023",
-    "End of Production Date": "7/30/2023",
-    "End of Support Date": "7/30/2028"
-  },
-  {
-    "Model": "Lenovo 300w Gen 3",
-    "Machine Types": "82J1, 82J2",
-    "Announce Date": "1/10/2023",
-    "Last Order Date": "6/30/2023",
-    "End of Production Date": "7/30/2023",
-    "End of Support Date": "7/30/2028"
-  },
-  {
-    "Model": "Lenovo 300w Gen 4",
-    "Machine Types": "82VM, 82VN",
-    "Announce Date": "7/16/2024",
-    "Last Order Date": "6/30/2025",
-    "End of Production Date": "7/30/2025",
-    "End of Support Date": "7/30/2030"
-  },
-  {
-    "Model": "Lenovo 500w Gen 3",
-    "Machine Types": "82J3, 82J4",
-    "Announce Date": "7/19/2022",
-    "Last Order Date": "6/30/2023",
-    "End of Production Date": "7/30/2023",
-    "End of Support Date": "7/30/2028"
-  },
-  {
-    "Model": "Lenovo 500w Gen 4",
-    "Machine Types": "82VQ, 82VR",
-    "Announce Date": "5/15/2024",
-    "Last Order Date": "6/30/2025",
-    "End of Production Date": "7/30/2025",
-    "End of Support Date": "7/30/2030"
-  },
-  {
-    "Model": "Lenovo K14 Gen 1",
-    "Machine Types": "21CS, 21CT",
-    "Announce Date": "4/16/2024",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad 11e",
-    "Machine Types": "20ED, 20EE, 20DA, 20D9",
-    "Announce Date": "4/1/2015",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad 11e Gen 2",
-    "Machine Types": "20E6, 20E8",
-    "Announce Date": "4/1/2015",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad 11e Gen 3",
-    "Machine Types": "20GB, 20G9",
-    "Announce Date": "2/1/2016",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad 11e Gen 4",
-    "Machine Types": "20HV, 20HT",
-    "Announce Date": "3/1/2017",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad 11e Gen 5",
-    "Machine Types": "20LQ, 20LR",
-    "Announce Date": "10/24/2022",
-    "Last Order Date": "6/30/2022",
-    "End of Production Date": "7/30/2022",
-    "End of Support Date": "7/30/2027"
-  },
-  {
-    "Model": "ThinkPad 11e Yoga",
-    "Machine Types": "20DA, 20D9",
-    "Announce Date": "6/1/2014",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad 11e Yoga Gen 5",
-    "Machine Types": "20LM, 20LN",
-    "Announce Date": "10/24/2022",
-    "Last Order Date": "3/31/2023",
-    "End of Production Date": "5/1/2023",
-    "End of Support Date": "5/1/2028"
-  },
-  {
-    "Model": "ThinkPad 11e Yoga Gen 6",
-    "Machine Types": "20SE, 20SF",
-    "Announce Date": "3/25/2020",
-    "Last Order Date": "6/30/2022",
-    "End of Production Date": "7/30/2022",
-    "End of Support Date": "7/30/2027"
-  },
-  {
-    "Model": "ThinkPad 13",
-    "Machine Types": "20GJ, 20GK",
-    "Announce Date": "3/1/2016",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad 13 Gen 2",
-    "Machine Types": "20J1, 20J2",
-    "Announce Date": "12/1/2016",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad A275",
-    "Machine Types": "20KD, 20KC",
-    "Announce Date": "9/1/2017",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad A285",
-    "Machine Types": "20MW, 20MX",
-    "Announce Date": "8/28/2018",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad A475",
-    "Machine Types": "20KL, 20KM",
-    "Announce Date": "9/1/2017",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad A485",
-    "Machine Types": "20MU, 20MV",
-    "Announce Date": "7/18/2018",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E14",
-    "Machine Types": "20RA, 20RB",
-    "Announce Date": "10/1/2019",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E14 Gen 2",
-    "Machine Types": "20TA, 20TB",
-    "Announce Date": "11/10/2020",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E14 Gen 2 AMD",
-    "Machine Types": "20T6, 20T7",
-    "Announce Date": "5/25/2021",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E14 Gen 3 AMD",
-    "Machine Types": "20Y7, 20YD, 20YE, 20YF",
-    "Announce Date": "5/18/2021",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E14 Gen 4",
-    "Machine Types": "21E3, 21E4",
-    "Announce Date": "5/17/2022",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E14 Gen 4 AMD",
-    "Machine Types": "21EB, 21EC",
-    "Announce Date": "3/22/2022",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E14 Gen 5",
-    "Machine Types": "21JL, 21JK",
-    "Announce Date": "9/26/2023",
-    "Last Order Date": "5/31/2025",
-    "End of Production Date": "7/1/2025",
-    "End of Support Date": "7/1/2030"
-  },
-  {
-    "Model": "ThinkPad E14 Gen 5 AMD",
-    "Machine Types": "21JS, 21JR",
-    "Announce Date": "8/22/2023",
-    "Last Order Date": "5/31/2025",
-    "End of Production Date": "7/1/2025",
-    "End of Support Date": "7/1/2030"
-  },
-  {
-    "Model": "ThinkPad E14 Gen 6",
-    "Machine Types": "21M7, 21M8",
-    "Announce Date": "3/19/2024",
-    "Last Order Date": "9/30/2025",
-    "End of Production Date": "10/30/2025",
-    "End of Support Date": "10/30/2030"
-  },
-  {
-    "Model": "ThinkPad E14 Gen 6 AMD",
-    "Machine Types": "21M4, 21M3",
-    "Announce Date": "4/9/2024",
-    "Last Order Date": "3/31/2026",
-    "End of Production Date": "5/1/2026",
-    "End of Support Date": "5/1/2031"
-  },
-  {
-    "Model": "ThinkPad E15",
-    "Machine Types": "20RD, 20RE",
-    "Announce Date": "11/5/2019",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E15 Gen 2",
-    "Machine Types": "20TD, 20TE",
-    "Announce Date": "11/10/2020",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E15 Gen 2 AMD",
-    "Machine Types": "20T8, 20T9",
-    "Announce Date": "7/7/2020",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E15 Gen 3 AMD",
-    "Machine Types": "20YG, 20YH, 20YJ, 20YK",
-    "Announce Date": "5/18/2021",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E15 Gen 4",
-    "Machine Types": "21E6, 21E7",
-    "Announce Date": "5/17/2022",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E15 Gen 4 AMD",
-    "Machine Types": "21ED, 21EE",
-    "Announce Date": "3/22/2022",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E16 Gen 1",
-    "Machine Types": "21JN, 21JQ",
-    "Announce Date": "9/26/2023",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E16 Gen 1 AMD",
-    "Machine Types": "21JT, 21JU",
-    "Announce Date": "8/22/2023",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E16 Gen 2",
-    "Machine Types": "21MA, 21MB",
-    "Announce Date": "3/19/2024",
-    "Last Order Date": "9/30/2025",
-    "End of Production Date": "10/30/2025",
-    "End of Support Date": "10/30/2030"
-  },
-  {
-    "Model": "ThinkPad E16 Gen 2 AMD",
-    "Machine Types": "21M5, 21M6",
-    "Announce Date": "4/9/2024",
-    "Last Order Date": "3/31/2026",
-    "End of Production Date": "5/1/2026",
-    "End of Support Date": "5/1/2031"
-  },
-  {
-    "Model": "ThinkPad E450",
-    "Machine Types": "20DC",
-    "Announce Date": "1/1/2015",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E455",
-    "Machine Types": "20DE",
-    "Announce Date": "1/1/2015",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E460",
-    "Machine Types": "20ET",
-    "Announce Date": "11/1/2015",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E465",
-    "Machine Types": "20EX",
-    "Announce Date": "11/1/2015",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E470",
-    "Machine Types": "20H1",
-    "Announce Date": "9/1/2016",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E475",
-    "Machine Types": "20H4",
-    "Announce Date": "11/1/2016",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E480",
-    "Machine Types": "20KN, 20KQ",
-    "Announce Date": "12/26/2017",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E485",
-    "Machine Types": "20KU",
-    "Announce Date": "7/1/2018",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E490",
-    "Machine Types": "20N8, 20N9",
-    "Announce Date": "12/25/2018",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E490s",
-    "Machine Types": "20NG",
-    "Announce Date": "3/19/2019",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E495",
-    "Machine Types": "20NE",
-    "Announce Date": "4/30/2019",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E550",
-    "Machine Types": "20DF",
-    "Announce Date": "1/1/2015",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E560",
-    "Machine Types": "20EV",
-    "Announce Date": "11/1/2015",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E565",
-    "Machine Types": "20EY",
-    "Announce Date": "11/1/2015",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E570",
-    "Machine Types": "20H5",
-    "Announce Date": "9/1/2016",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E575",
-    "Machine Types": "20H8",
-    "Announce Date": "11/1/2016",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E580",
-    "Machine Types": "20KS",
-    "Announce Date": "1/9/2018",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E585",
-    "Machine Types": "20KV",
-    "Announce Date": "6/1/2018",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E590",
-    "Machine Types": "20NB, 20NC",
-    "Announce Date": "12/25/2018",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad E595",
-    "Machine Types": "20NF",
-    "Announce Date": "4/30/2019",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad L13 2-in-1 Gen 5",
-    "Machine Types": "21LN, 21LM",
-    "Announce Date": "4/19/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad L13 Gen 1",
-    "Machine Types": "20R3, 20R4",
-    "Announce Date": "10/29/2019",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad L13 Gen 2",
-    "Machine Types": "20VH, 20VJ",
-    "Announce Date": "11/3/2020",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad L13 Gen 2 AMD",
-    "Machine Types": "21AB, 21AC",
-    "Announce Date": "7/21/2021",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad L13 Gen 3",
-    "Machine Types": "21B4, 21B3",
-    "Announce Date": "4/20/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad L13 Gen 3 AMD",
-    "Machine Types": "21B9, 21BA",
-    "Announce Date": "4/14/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad L13 Gen 4",
-    "Machine Types": "21FG, 21FH",
-    "Announce Date": "12/26/2023",
-    "Last Order Date": "6/30/2025",
-    "End of Production Date": "7/30/2025",
-    "End of Support Date": "7/30/2030"
-  },
-  {
-    "Model": "ThinkPad L13 Gen 4 AMD",
-    "Machine Types": "21FQ, 21FN",
-    "Announce Date": "12/26/2023",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad L13 Gen 5",
-    "Machine Types": "21LB, 21LC",
-    "Announce Date": "4/19/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad L13 Gen 5",
-    "Machine Types": "21LC, 21LB",
-    "Announce Date": "4/19/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad L13 Yoga Gen 1",
-    "Machine Types": "20R5, 20R6",
-    "Announce Date": "10/29/2019",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad L13 Yoga Gen 2",
-    "Machine Types": "20VL, 20VK",
-    "Announce Date": "12/15/2020",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad L13 Yoga Gen 2 AMD",
-    "Machine Types": "21AE, 21AD",
-    "Announce Date": "7/21/2021",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad L13 Yoga Gen 3",
-    "Machine Types": "21B6, 21B5",
-    "Announce Date": "4/20/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad L13 Yoga Gen 3 AMD",
-    "Machine Types": "21BB, 21BC",
-    "Announce Date": "7/19/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad L13 Yoga Gen 4",
-    "Machine Types": "21FK, 21FJ",
-    "Announce Date": "9/30/2023",
-    "Last Order Date": "6/30/2025",
-    "End of Production Date": "7/30/2025",
-    "End of Support Date": "7/30/2030"
-  },
-  {
-    "Model": "ThinkPad L13 Yoga Gen 4 AMD",
-    "Machine Types": "21FS, 21FR",
-    "Announce Date": "12/26/2023",
-    "Last Order Date": "9/30/2025",
-    "End of Production Date": "10/30/2025",
-    "End of Support Date": "10/30/2030"
-  },
-  {
-    "Model": "ThinkPad L14 Gen 1",
-    "Machine Types": "20U1, 20U2",
-    "Announce Date": "5/19/2020",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad L14 Gen 1 AMD",
-    "Machine Types": "20U5, 20U6",
-    "Announce Date": "7/21/2020",
-    "Last Order Date": "6/30/2022",
-    "End of Production Date": "7/30/2022",
-    "End of Support Date": "7/30/2027"
-  },
-  {
-    "Model": "ThinkPad L14 Gen 2",
-    "Machine Types": "20X2, 20X1",
-    "Announce Date": "12/29/2020",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad L14 Gen 2 AMD",
-    "Machine Types": "20X5, 20X6",
-    "Announce Date": "5/4/2021",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad L14 Gen 3",
-    "Machine Types": "21C1, 21C2",
-    "Announce Date": "5/12/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad L14 Gen 3 AMD",
-    "Machine Types": "21C6, 21C5",
-    "Announce Date": "4/19/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad L14 Gen 4",
-    "Machine Types": "21H2, 21H1",
-    "Announce Date": "5/9/2023",
-    "Last Order Date": "6/30/2025",
-    "End of Production Date": "7/30/2025",
-    "End of Support Date": "7/30/2030"
-  },
-  {
-    "Model": "ThinkPad L14 Gen 4 AMD",
-    "Machine Types": "21H6, 21H5",
-    "Announce Date": "3/29/2023",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad L14 Gen 5",
-    "Machine Types": "21L1, 21L2",
-    "Announce Date": "4/16/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad L14 Gen 5 AMD",
-    "Machine Types": "21L5, 21L6",
-    "Announce Date": "3/19/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad L15 AMD Gen 4",
-    "Machine Types": "21H7, 21H8",
-    "Announce Date": "3/29/2023",
-    "Last Order Date": "6/30/2025",
-    "End of Production Date": "7/30/2025",
-    "End of Support Date": "7/30/2030"
-  },
-  {
-    "Model": "ThinkPad L15 Gen 1",
-    "Machine Types": "20U3, 20U4",
-    "Announce Date": "5/19/2020",
-    "Last Order Date": "12/31/2021",
-    "End of Production Date": "1/31/2022",
-    "End of Support Date": "1/31/2027"
-  },
-  {
-    "Model": "ThinkPad L15 Gen 1 AMD",
-    "Machine Types": "20U8, 20U7",
-    "Announce Date": "7/21/2020",
-    "Last Order Date": "12/31/2021",
-    "End of Production Date": "1/31/2022",
-    "End of Support Date": "1/31/2027"
-  },
-  {
-    "Model": "ThinkPad L15 Gen 2",
-    "Machine Types": "20X3, 20X4",
-    "Announce Date": "12/29/2020",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad L15 Gen 2 AMD",
-    "Machine Types": "20X8, 20X7",
-    "Announce Date": "5/4/2021",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad L15 Gen 3",
-    "Machine Types": "21C3, 21C4",
-    "Announce Date": "5/12/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad L15 Gen 3 AMD",
-    "Machine Types": "21C8, 21C7",
-    "Announce Date": "3/7/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad L15 Gen 4",
-    "Machine Types": "21H4, 21H3",
-    "Announce Date": "5/9/2023",
-    "Last Order Date": "6/30/2025",
-    "End of Production Date": "7/30/2025",
-    "End of Support Date": "7/30/2030"
-  },
-  {
-    "Model": "ThinkPad L15 Gen 4 AMD",
-    "Machine Types": "21H7, 21H8",
-    "Announce Date": "3/29/2023",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad L16 Gen 1",
-    "Machine Types": "21L4, 21L3",
-    "Announce Date": "4/16/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad L16 Gen 1 AMD",
-    "Machine Types": "21L8, 21L7",
-    "Announce Date": "3/19/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad L380",
-    "Machine Types": "20M5, 20M6",
-    "Announce Date": "2/13/2018",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad L380 Yoga",
-    "Machine Types": "20M8, 20M7",
-    "Announce Date": "2/13/2018",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad L390",
-    "Machine Types": "20NS, 20NR",
-    "Announce Date": "12/25/2018",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad L390 Yoga",
-    "Machine Types": "20NT, 20NU",
-    "Announce Date": "12/25/2018",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad L460",
-    "Machine Types": "20FU, 20FV",
-    "Announce Date": "1/1/2016",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad L470",
-    "Machine Types": "20J4, 20J5, 20JU, 20JV",
-    "Announce Date": "1/31/2017",
-    "Last Order Date": "2/29/2020",
-    "End of Production Date": "3/29/2020",
-    "End of Support Date": "3/29/2025"
-  },
-  {
-    "Model": "ThinkPad L480",
-    "Machine Types": "20LS, 20LT",
-    "Announce Date": "2/6/2018",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad L490",
-    "Machine Types": "20Q5, 20Q6",
-    "Announce Date": "6/4/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad L560",
-    "Machine Types": "20F1, 20F2",
-    "Announce Date": "2/1/2016",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad L570",
-    "Machine Types": "20JQ, 20JR, 20J8, 20J9",
-    "Announce Date": "3/31/2017",
-    "Last Order Date": "2/29/2020",
-    "End of Production Date": "3/29/2020",
-    "End of Support Date": "3/29/2025"
-  },
-  {
-    "Model": "ThinkPad L580",
-    "Machine Types": "20LW, 20LX",
-    "Announce Date": "2/6/2018",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad L590",
-    "Machine Types": "20Q8, 20Q7",
-    "Announce Date": "6/4/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad Lenovo K14 Gen 2",
-    "Machine Types": "21G1, 21G0",
-    "Announce Date": "4/16/2024",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad P1",
-    "Machine Types": "20MD, 20ME",
-    "Announce Date": "8/28/2018",
-    "Last Order Date": "3/31/2020",
-    "End of Production Date": "5/1/2020",
-    "End of Support Date": "5/1/2025"
-  },
-  {
-    "Model": "ThinkPad P1 Gen 2",
-    "Machine Types": "20QT, 20QU",
-    "Announce Date": "7/2/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad P1 Gen 3",
-    "Machine Types": "20TJ, 20TH",
-    "Announce Date": "8/4/2020",
-    "Last Order Date": "12/31/2021",
-    "End of Production Date": "1/31/2022",
-    "End of Support Date": "1/31/2027"
-  },
-  {
-    "Model": "ThinkPad P1 Gen 3",
-    "Machine Types": "20TJ, 20TH",
-    "Announce Date": "8/4/2020",
-    "Last Order Date": "12/31/2021",
-    "End of Production Date": "1/31/2022",
-    "End of Support Date": "1/31/2027"
-  },
-  {
-    "Model": "ThinkPad P1 Gen 4",
-    "Machine Types": "20Y3, 20Y4",
-    "Announce Date": "6/8/2021",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad P1 Gen 5",
-    "Machine Types": "21DD, 21DC",
-    "Announce Date": "4/26/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad P1 Gen 6",
-    "Machine Types": "21FW, 21FV",
-    "Announce Date": "6/7/2024",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad P1 Gen 7",
-    "Machine Types": "21KV, 21KW",
-    "Announce Date": "5/28/2024",
-    "Last Order Date": "3/31/2026",
-    "End of Production Date": "5/1/2026",
-    "End of Support Date": "5/1/2031"
-  },
-  {
-    "Model": "ThinkPad P14 Gen 5 AMD",
-    "Machine Types": "21MF, 21ME",
-    "Announce Date": "5/14/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad P14s Gen 1",
-    "Machine Types": "20S4, 20S5",
-    "Announce Date": "5/5/2020",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad P14s Gen 1 AMD",
-    "Machine Types": "20Y1, 20Y2",
-    "Announce Date": "10/15/2020",
-    "Last Order Date": "6/30/2022",
-    "End of Production Date": "7/30/2022",
-    "End of Support Date": "7/30/2027"
-  },
-  {
-    "Model": "ThinkPad P14s Gen 2",
-    "Machine Types": "20VW, 20VX",
-    "Announce Date": "2/23/2021",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad P14s Gen 2 AMD",
-    "Machine Types": "21A1, 21A0",
-    "Announce Date": "6/1/2021",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad P14s Gen 3",
-    "Machine Types": "21AL, 21AK",
-    "Announce Date": "3/22/2022",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad P14s Gen 3 AMD",
-    "Machine Types": "21J6, 21J5",
-    "Announce Date": "9/13/2022",
-    "Last Order Date": "3/31/2024",
-    "End of Production Date": "5/1/2024",
-    "End of Support Date": "5/1/2029"
-  },
-  {
-    "Model": "ThinkPad P14s Gen 4",
-    "Machine Types": "21HF, 21HG",
-    "Announce Date": "5/30/2023",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad P14s Gen 4 AMD",
-    "Machine Types": "21K5, 21K6",
-    "Announce Date": "7/11/2023",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad P14s Gen 5",
-    "Machine Types": "21G2, 21G3",
-    "Announce Date": "7/19/2024",
-    "Last Order Date": "3/31/2026",
-    "End of Production Date": "5/1/2026",
-    "End of Support Date": "5/1/2031"
-  },
-  {
-    "Model": "ThinkPad P14s Gen 5 AMD",
-    "Machine Types": "21MF, 21ME",
-    "Announce Date": "5/14/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad P15 Gen 1",
-    "Machine Types": "20ST, 20SU",
-    "Announce Date": "7/21/2020",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad P15 Gen 2",
-    "Machine Types": "20YR, 20YQ",
-    "Announce Date": "6/8/2021",
-    "Last Order Date": "6/30/2023",
-    "End of Production Date": "7/30/2023",
-    "End of Support Date": "7/30/2028"
-  },
-  {
-    "Model": "ThinkPad P15s Gen 1",
-    "Machine Types": "20T5, 20T4",
-    "Announce Date": "5/5/2020",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad P15s Gen 2",
-    "Machine Types": "20W7, 20W6",
-    "Announce Date": "2/23/2021",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad P15v Gen 1",
-    "Machine Types": "20RE, 20TQ",
-    "Announce Date": "8/4/2020",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad P15v Gen 2",
-    "Machine Types": "21AA, 21A9",
-    "Announce Date": "7/20/2021",
-    "Last Order Date": "6/30/2023",
-    "End of Production Date": "7/30/2023",
-    "End of Support Date": "7/30/2028"
-  },
-  {
-    "Model": "ThinkPad P15v Gen 3",
-    "Machine Types": "21D8, 21D9",
-    "Announce Date": "4/26/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad P15v Gen 3 AMD",
-    "Machine Types": "21EN, 21EM",
-    "Announce Date": "8/23/2022",
-    "Last Order Date": "3/31/2024",
-    "End of Production Date": "5/1/2024",
-    "End of Support Date": "5/1/2029"
-  },
-  {
-    "Model": "ThinkPad P16 Gen 1",
-    "Machine Types": "21D6, 21D7",
-    "Announce Date": "5/31/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad P16 Gen 2",
-    "Machine Types": "21FB, 21FA",
-    "Announce Date": "4/9/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad P16s Gen 1",
-    "Machine Types": "21BT, 21BU",
-    "Announce Date": "3/22/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad P16s Gen 1 AMD",
-    "Machine Types": "21CK, 21CL",
-    "Announce Date": "7/19/2022",
-    "Last Order Date": "3/31/2024",
-    "End of Production Date": "5/1/2024",
-    "End of Support Date": "5/1/2029"
-  },
-  {
-    "Model": "ThinkPad P16s Gen 2",
-    "Machine Types": "21KS, 21KT",
-    "Announce Date": "10/15/2024",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad P16s Gen 2 AMD",
-    "Machine Types": "21K9, 21KA",
-    "Announce Date": "9/17/2024",
-    "Last Order Date": "9/30/2025",
-    "End of Production Date": "10/30/2025",
-    "End of Support Date": "10/30/2030"
-  },
-  {
-    "Model": "ThinkPad P16s Gen 3",
-    "Machine Types": "21KS, 21KT",
-    "Announce Date": "10/15/2024",
-    "Last Order Date": "3/31/2026",
-    "End of Production Date": "5/1/2026",
-    "End of Support Date": "5/1/2031"
-  },
-  {
-    "Model": "ThinkPad P16v Gen 1",
-    "Machine Types": "21FC, 21FD",
-    "Announce Date": "8/22/2023",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad P16v Gen 1 AMD",
-    "Machine Types": "21FF, 21FE",
-    "Announce Date": "9/27/2023",
-    "Last Order Date": "9/30/2025",
-    "End of Production Date": "10/30/2025",
-    "End of Support Date": "10/30/2030"
-  },
-  {
-    "Model": "ThinkPad P16v Gen 2",
-    "Machine Types": "21KX,21KY",
-    "Announce Date": "4/23/2024",
-    "Last Order Date": "3/31/2026",
-    "End of Production Date": "5/1/2026",
-    "End of Support Date": "5/1/2031"
-  },
-  {
-    "Model": "ThinkPad P17 Gen 1",
-    "Machine Types": "20SQ, 20SN",
-    "Announce Date": "7/28/2020",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad P17 Gen 2",
-    "Machine Types": "20YV, 20YU",
-    "Announce Date": "6/15/2021",
-    "Last Order Date": "6/30/2023",
-    "End of Production Date": "7/30/2023",
-    "End of Support Date": "7/30/2028"
-  },
-  {
-    "Model": "ThinkPad P43s",
-    "Machine Types": "20RH, 20RJ",
-    "Announce Date": "7/23/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad P50s",
-    "Machine Types": "20FK, 20FL",
-    "Announce Date": "1/1/2016",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad P51",
-    "Machine Types": "20HH, 20MM",
-    "Announce Date": "3/31/2017",
-    "Last Order Date": "2/29/2020",
-    "End of Production Date": "3/29/2020",
-    "End of Support Date": "3/29/2025"
-  },
-  {
-    "Model": "ThinkPad P51s",
-    "Machine Types": "20HB, 20JY",
-    "Announce Date": "5/1/2017",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad P52",
-    "Machine Types": "20MA, 20M9",
-    "Announce Date": "6/19/2018",
-    "Last Order Date": "3/31/2020",
-    "End of Production Date": "5/1/2020",
-    "End of Support Date": "5/1/2025"
-  },
-  {
-    "Model": "ThinkPad P52s",
-    "Machine Types": "20LC, 20LB",
-    "Announce Date": "2/6/2018",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad P53",
-    "Machine Types": "20QQ, 20QN",
-    "Announce Date": "7/23/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad P53s",
-    "Machine Types": "20N7, 20N6",
-    "Announce Date": "7/30/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad P71",
-    "Machine Types": "20HK, 20HL",
-    "Announce Date": "4/1/2017",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad P72",
-    "Machine Types": "20MB, 20MC",
-    "Announce Date": "9/4/2018",
-    "Last Order Date": "3/31/2020",
-    "End of Production Date": "5/1/2020",
-    "End of Support Date": "5/1/2025"
-  },
-  {
-    "Model": "ThinkPad P73",
-    "Machine Types": "20QR, 20QS",
-    "Announce Date": "8/13/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad T14 Gen 1",
-    "Machine Types": "20S1, 20S0",
-    "Announce Date": "5/5/2020",
-    "Last Order Date": "12/31/2021",
-    "End of Production Date": "1/31/2022",
-    "End of Support Date": "1/31/2027"
-  },
-  {
-    "Model": "ThinkPad T14 Gen 1 AMD",
-    "Machine Types": "20UE, 20UD",
-    "Announce Date": "6/2/2020",
-    "Last Order Date": "6/30/2022",
-    "End of Production Date": "7/30/2022",
-    "End of Support Date": "7/30/2027"
-  },
-  {
-    "Model": "ThinkPad T14 Gen 2",
-    "Machine Types": "20w0, 20w1",
-    "Announce Date": "2/23/2021",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad T14 Gen 2 AMD",
-    "Machine Types": "20XK, 20XL",
-    "Announce Date": "6/1/2021",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad T14 Gen 3",
-    "Machine Types": "21AH, 21AJ",
-    "Announce Date": "8/30/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad T14 Gen 3 AMD",
-    "Machine Types": "21CF, 21CG",
-    "Announce Date": "7/19/2022",
-    "Last Order Date": "3/31/2024",
-    "End of Production Date": "5/1/2024",
-    "End of Support Date": "5/1/2029"
-  },
-  {
-    "Model": "ThinkPad T14 Gen 4",
-    "Machine Types": "21F6, 21F7",
-    "Announce Date": "4/26/2023",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad T14 Gen 4 AMD",
-    "Machine Types": "21K3, 21K4",
-    "Announce Date": "7/11/2023",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad T14 Gen 4 Intel",
-    "Machine Types": "21HD, 21HE",
-    "Announce Date": "9/26/2023",
-    "Last Order Date": "6/30/2025",
-    "End of Production Date": "7/30/2025",
-    "End of Support Date": "7/30/2030"
-  },
-  {
-    "Model": "ThinkPad T14 Gen 5",
-    "Machine Types": "21MM, 21ML",
-    "Announce Date": "4/16/2024",
-    "Last Order Date": "9/30/2026",
-    "End of Production Date": "10/30/2026",
-    "End of Support Date": "10/30/2031"
-  },
-  {
-    "Model": "ThinkPad T14 Gen 5 AMD",
-    "Machine Types": "21MC, 21MD",
-    "Announce Date": "6/11/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad T14 Gen 5 Intel",
-    "Machine Types": "21ML, 21MM",
-    "Announce Date": "5/28/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad T14s Gen 1",
-    "Machine Types": "20T1, 20T0",
-    "Announce Date": "5/22/2020",
-    "Last Order Date": "12/31/2021",
-    "End of Production Date": "1/31/2022",
-    "End of Support Date": "1/31/2027"
-  },
-  {
-    "Model": "ThinkPad T14s Gen 1 AMD",
-    "Machine Types": "20UJ, 20UH",
-    "Announce Date": "6/2/2020",
-    "Last Order Date": "6/30/2022",
-    "End of Production Date": "7/30/2022",
-    "End of Support Date": "7/30/2027"
-  },
-  {
-    "Model": "ThinkPad T14s Gen 2",
-    "Machine Types": "20WN, 20WN",
-    "Announce Date": "3/22/2021",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad T14s Gen 2 AMD",
-    "Machine Types": "20XF, 20XG",
-    "Announce Date": "7/31/2021",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad T14s Gen 3",
-    "Machine Types": "21BR, 21BS",
-    "Announce Date": "4/12/2022",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad T14s Gen 3 AMD",
-    "Machine Types": "21CQ, 21CR",
-    "Announce Date": "7/19/2022",
-    "Last Order Date": "3/31/2024",
-    "End of Production Date": "5/1/2024",
-    "End of Support Date": "5/1/2029"
-  },
-  {
-    "Model": "ThinkPad T14s Gen 4",
-    "Machine Types": "21F6, 21F7",
-    "Announce Date": "9/26/2023",
-    "Last Order Date": "3/31/2025",
-    "End of Production Date": "5/1/2025",
-    "End of Support Date": "5/1/2030"
-  },
-  {
-    "Model": "ThinkPad T14s Gen 4 AMD",
-    "Machine Types": "21F9, 21F8",
-    "Announce Date": "8/25/2023",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad T14s Gen 5",
-    "Machine Types": "21LT, 21LS",
-    "Announce Date": "9/3/2024",
-    "Last Order Date": "2/25/2026",
-    "End of Production Date": "3/25/2026",
-    "End of Support Date": "3/25/2031"
-  },
-  {
-    "Model": "ThinkPad T14s Gen 6",
-    "Machine Types": "21N1, 21N2",
-    "Announce Date": "9/19/2024",
-    "Last Order Date": "12/31/2026",
-    "End of Production Date": "1/31/2027",
-    "End of Support Date": "1/31/2032"
-  },
-  {
-    "Model": "ThinkPad T14s Gen 6 AMD",
-    "Machine Types": "21M1, 21M2",
-    "Announce Date": "10/23/2024",
-    "Last Order Date": "12/31/2026",
-    "End of Production Date": "1/31/2027",
-    "End of Support Date": "1/31/2032"
-  },
-  {
-    "Model": "ThinkPad T15 Gen 1",
-    "Machine Types": "20S6, 20S7",
-    "Announce Date": "5/5/2020",
-    "Last Order Date": "12/31/2021",
-    "End of Production Date": "1/31/2022",
-    "End of Support Date": "1/31/2027"
-  },
-  {
-    "Model": "ThinkPad T15 Gen 1 AMD",
-    "Machine Types": "20U8, 20U7",
-    "Announce Date": "7/21/2020",
-    "Last Order Date": "6/30/2022",
-    "End of Production Date": "7/30/2022",
-    "End of Support Date": "7/30/2027"
-  },
-  {
-    "Model": "ThinkPad T15 Gen 2",
-    "Machine Types": "20W5, 20W4",
-    "Announce Date": "2/23/2021",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad T15g Gen 1",
-    "Machine Types": "20UR, 20US",
-    "Announce Date": "8/25/2020",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad T15g Gen 2",
-    "Machine Types": "20YS, 20YT",
-    "Announce Date": "6/8/2021",
-    "Last Order Date": "6/30/2023",
-    "End of Production Date": "7/30/2023",
-    "End of Support Date": "7/30/2028"
-  },
-  {
-    "Model": "ThinkPad T15p Gen 1",
-    "Machine Types": "20TM, 20TN",
-    "Announce Date": "8/4/2020",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad T15p Gen 2",
-    "Machine Types": "21A8, 21A7",
-    "Announce Date": "7/20/2021",
-    "Last Order Date": "6/30/2023",
-    "End of Production Date": "7/30/2023",
-    "End of Support Date": "7/30/2028"
-  },
-  {
-    "Model": "ThinkPad T15p Gen 3",
-    "Machine Types": "21DA, 21DB",
-    "Announce Date": "4/26/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad T16 Gen 1",
-    "Machine Types": "21BV, 21 BW",
-    "Announce Date": "5/31/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad T16 Gen 1 AMD",
-    "Machine Types": "21CJ, 21CH",
-    "Announce Date": "7/19/2022",
-    "Last Order Date": "3/31/2024",
-    "End of Production Date": "5/1/2024",
-    "End of Support Date": "5/1/2029"
-  },
-  {
-    "Model": "ThinkPad T16 Gen 2",
-    "Machine Types": "21HH, 21HJ",
-    "Announce Date": "4/25/2023",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad T16 Gen 2 AMD",
-    "Machine Types": "21K8, 21K7",
-    "Announce Date": "7/26/2024",
-    "Last Order Date": "9/30/2025",
-    "End of Production Date": "10/30/2025",
-    "End of Support Date": "10/30/2030"
-  },
-  {
-    "Model": "ThinkPad T16 Gen 2 Intel",
-    "Machine Types": "21HH, 21HJ",
-    "Announce Date": "4/25/2023",
-    "Last Order Date": "6/30/2025",
-    "End of Production Date": "7/30/2025",
-    "End of Support Date": "7/30/2030"
-  },
-  {
-    "Model": "ThinkPad T16 Gen 3",
-    "Machine Types": "21MN, 21MQ",
-    "Announce Date": "4/16/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad T470",
-    "Machine Types": "20HE, 20HD, 20KM, 20JN",
-    "Announce Date": "1/31/2017",
-    "Last Order Date": "2/29/2020",
-    "End of Production Date": "3/29/2020",
-    "End of Support Date": "3/29/2025"
-  },
-  {
-    "Model": "ThinkPad T470s",
-    "Machine Types": "20JS, 20JT, 20HF, 20HT",
-    "Announce Date": "2/14/2017",
-    "Last Order Date": "2/29/2020",
-    "End of Production Date": "3/29/2020",
-    "End of Support Date": "3/29/2025"
-  },
-  {
-    "Model": "ThinkPad T480",
-    "Machine Types": "20L5, 20L6",
-    "Announce Date": "2/6/2018",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad T480s",
-    "Machine Types": "20L8, 20L7",
-    "Announce Date": "1/29/2018",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad T490",
-    "Machine Types": "20N2, 20N3, 20RX, 20RY",
-    "Announce Date": "3/19/2019",
-    "Last Order Date": "10/21/2019",
-    "End of Production Date": "11/21/2019",
-    "End of Support Date": "11/21/2024"
-  },
-  {
-    "Model": "ThinkPad T490s",
-    "Machine Types": "20NX, 20NY",
-    "Announce Date": "3/19/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad T495",
-    "Machine Types": "20NK, 20NJ",
-    "Announce Date": "5/28/2019",
-    "Last Order Date": "3/31/2021",
-    "End of Production Date": "5/1/2021",
-    "End of Support Date": "5/1/2026"
-  },
-  {
-    "Model": "ThinkPad T495s",
-    "Machine Types": "20QJ, 20AK",
-    "Announce Date": "6/4/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad T580",
-    "Machine Types": "20LA, 20L9",
-    "Announce Date": "2/6/2018",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad T590",
-    "Machine Types": "20N4, 20N5",
-    "Announce Date": "3/19/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad X1 2-in-1 Gen 9",
-    "Machine Types": "21KF, 21KE",
-    "Announce Date": "9/3/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad X1 Carbon Gen 10",
-    "Machine Types": "21CB, 21CC",
-    "Announce Date": "3/15/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad X1 Carbon Gen 11",
-    "Machine Types": "21HM, 21HN",
-    "Announce Date": "11/2/2024",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad X1 Carbon Gen 12",
-    "Machine Types": "21KD, 21KC",
-    "Announce Date": "9/3/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad X1 Carbon Gen 13",
-    "Machine Types": "21NS",
-    "Announce Date": "11/5/2024",
-    "Last Order Date": "12/31/2026",
-    "End of Production Date": "1/31/2027",
-    "End of Support Date": "1/31/2032"
-  },
-  {
-    "Model": "ThinkPad X1 Carbon Gen 2",
-    "Machine Types": "20A7, 20A8",
-    "Announce Date": "1/1/2014",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad X1 Carbon Gen 3",
-    "Machine Types": "20BS, 20BT",
-    "Announce Date": "1/1/2015",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad X1 Carbon Gen 4",
-    "Machine Types": "20FB, 20FC",
-    "Announce Date": "2/1/2016",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad X1 Carbon Gen 5",
-    "Machine Types": "20HQ, 20HR, 20K3, 20K4",
-    "Announce Date": "2/1/2017",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad X1 Carbon Gen 6",
-    "Machine Types": "20KH, 20KG",
-    "Announce Date": "2/6/2018",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad X1 Carbon Gen 7",
-    "Machine Types": "20QD, 20QE, 20R1, 20R2",
-    "Announce Date": "6/18/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad X1 Carbon Gen 8",
-    "Machine Types": "20U9, 20UA",
-    "Announce Date": "4/28/2020",
-    "Last Order Date": "12/31/2021",
-    "End of Production Date": "1/31/2022",
-    "End of Support Date": "1/31/2027"
-  },
-  {
-    "Model": "ThinkPad X1 Carbon Gen 9",
-    "Machine Types": "20XW, 20XX",
-    "Announce Date": "3/2/2021",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad X1 Extreme",
-    "Machine Types": "20MF, 20MG",
-    "Announce Date": "8/28/2018",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad X1 Extreme Gen 2",
-    "Machine Types": "20QW, 20QV",
-    "Announce Date": "7/16/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad X1 Extreme Gen 3",
-    "Machine Types": "20TL, 20TK",
-    "Announce Date": "8/4/2020",
-    "Last Order Date": "12/31/2021",
-    "End of Production Date": "1/31/2022",
-    "End of Support Date": "1/31/2027"
-  },
-  {
-    "Model": "ThinkPad X1 Extreme Gen 4",
-    "Machine Types": "20Y6, 20Y5",
-    "Announce Date": "7/20/2021",
-    "Last Order Date": "6/30/2023",
-    "End of Production Date": "7/30/2023",
-    "End of Support Date": "7/30/2028"
-  },
-  {
-    "Model": "ThinkPad X1 Extreme Gen 5",
-    "Machine Types": "21DE, 21DF",
-    "Announce Date": "7/12/2022",
-    "Last Order Date": "3/31/2023",
-    "End of Production Date": "5/1/2023",
-    "End of Support Date": "5/1/2028"
-  },
-  {
-    "Model": "ThinkPad X1 Fold 16 Gen 1",
-    "Machine Types": "21ES, 21ET",
-    "Announce Date": "4/25/2023",
-    "Last Order Date": "6/30/2024",
-    "End of Production Date": "7/30/2024",
-    "End of Support Date": "7/30/2029"
-  },
-  {
-    "Model": "ThinkPad X1 Fold Gen 1",
-    "Machine Types": "20RK, 20RL",
-    "Announce Date": "9/1/2020",
-    "Last Order Date": "9/30/2022",
-    "End of Production Date": "10/30/2022",
-    "End of Support Date": "10/30/2027"
-  },
-  {
-    "Model": "ThinkPad X1 Nano Gen 1",
-    "Machine Types": "20UN, 20UQ",
-    "Announce Date": "12/8/2020",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad X1 Nano Gen 2",
-    "Machine Types": "21E9, 21E8",
-    "Announce Date": "4/29/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad X1 Nano Gen 3",
-    "Machine Types": "21K1, 21K2",
-    "Announce Date": "4/19/2023",
-    "Last Order Date": "3/31/2024",
-    "End of Production Date": "5/1/2024",
-    "End of Support Date": "5/1/2029"
-  },
-  {
-    "Model": "ThinkPad X1 Tablet Gen 3",
-    "Machine Types": "20KJ, 20KK",
-    "Announce Date": "3/27/2018",
-    "Last Order Date": "6/30/2021",
-    "End of Production Date": "7/30/2021",
-    "End of Support Date": "7/30/2026"
-  },
-  {
-    "Model": "ThinkPad X1 Titanium Gen 1",
-    "Machine Types": "20QA, 20QB",
-    "Announce Date": "1/26/2021",
-    "Last Order Date": "6/30/2022",
-    "End of Production Date": "7/30/2022",
-    "End of Support Date": "7/30/2027"
-  },
-  {
-    "Model": "ThinkPad X1 Titanium Yoga Gen 1",
-    "Machine Types": "20QA, 20QB",
-    "Announce Date": "2/9/2021",
-    "Last Order Date": "1/31/2023",
-    "End of Production Date": "3/3/2023",
-    "End of Support Date": "3/3/2028"
-  },
-  {
-    "Model": "ThinkPad X1 Yoga Gen 1",
-    "Machine Types": "20FQ, 20FR, 1286, 1291, 1292, 1293, 1294, 1295, 1296",
-    "Announce Date": "2/1/2017",
-    "Last Order Date": "",
-    "End of Production Date": "",
-    "End of Support Date": ""
-  },
-  {
-    "Model": "ThinkPad X1 Yoga Gen 3",
-    "Machine Types": "20LD, 20LF",
-    "Announce Date": "2/6/2018",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad X1 Yoga Gen 4",
-    "Machine Types": "20QF, 20QG, 20SA, 20SB",
-    "Announce Date": "6/18/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad X1 Yoga Gen 5",
-    "Machine Types": "20UB, 20UC",
-    "Announce Date": "4/28/2020",
-    "Last Order Date": "12/31/2021",
-    "End of Production Date": "1/31/2022",
-    "End of Support Date": "1/31/2027"
-  },
-  {
-    "Model": "ThinkPad X1 Yoga Gen 6",
-    "Machine Types": "20XY, 20Y0",
-    "Announce Date": "3/2/2021",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad X1 Yoga Gen 7",
-    "Machine Types": "21CE, 21CD",
-    "Announce Date": "3/15/2022",
-    "Last Order Date": "12/31/2022",
-    "End of Production Date": "1/31/2023",
-    "End of Support Date": "1/31/2028"
-  },
-  {
-    "Model": "ThinkPad X1 Yoga Gen 8",
-    "Machine Types": "21HQ, 21HR",
-    "Announce Date": "9/26/2023",
-    "Last Order Date": "3/31/2025",
-    "End of Production Date": "5/1/2025",
-    "End of Support Date": "5/1/2030"
-  },
-  {
-    "Model": "ThinkPad X12 Gen 1 Detachable",
-    "Machine Types": "20UW, 20UV",
-    "Announce Date": "7/4/2023",
-    "Last Order Date": "9/30/2024",
-    "End of Production Date": "10/30/2024",
-    "End of Support Date": "10/30/2029"
-  },
-  {
-    "Model": "ThinkPad X12 Gen 2 Detachable",
-    "Machine Types": "21LK, 21LL",
-    "Announce Date": "6/10/2024",
-    "Last Order Date": "3/30/2026",
-    "End of Production Date": "4/30/2026",
-    "End of Support Date": "4/30/2031"
-  },
-  {
-    "Model": "ThinkPad X13 2-in1 Gen 5",
-    "Machine Types": "21LX, 21LW",
-    "Announce Date": "4/2/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad X13 Gen 1",
-    "Machine Types": "20T2, 20T3",
-    "Announce Date": "5/22/2020",
-    "Last Order Date": "12/31/2021",
-    "End of Production Date": "1/31/2022",
-    "End of Support Date": "1/31/2027"
-  },
-  {
-    "Model": "ThinkPad X13 Gen 1 AMD",
-    "Machine Types": "20UF, 20UG",
-    "Announce Date": "6/2/2020",
-    "Last Order Date": "6/30/2022",
-    "End of Production Date": "7/30/2022",
-    "End of Support Date": "7/30/2027"
-  },
-  {
-    "Model": "ThinkPad X13 Gen 2",
-    "Machine Types": "20WK, 20WL",
-    "Announce Date": "3/22/2021",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad X13 Gen 2 AMD",
-    "Machine Types": "20XJ, 20XH",
-    "Announce Date": "7/31/2021",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad X13 Gen 3",
-    "Machine Types": "21BQ, 21BN",
-    "Announce Date": "4/12/2022",
-    "Last Order Date": "12/31/2023",
-    "End of Production Date": "1/31/2024",
-    "End of Support Date": "1/31/2029"
-  },
-  {
-    "Model": "ThinkPad X13 Gen 3 AMD",
-    "Machine Types": "21CN, 21CM",
-    "Announce Date": "9/30/2022",
-    "Last Order Date": "3/31/2024",
-    "End of Production Date": "5/1/2024",
-    "End of Support Date": "5/1/2029"
-  },
-  {
-    "Model": "ThinkPad X13 Gen 4",
-    "Machine Types": "21EX, 21EY",
-    "Announce Date": "5/9/2023",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad X13 Gen 4 AMD",
-    "Machine Types": "21J3, 21J4",
-    "Announce Date": "10/23/2024",
-    "Last Order Date": "6/30/2025",
-    "End of Production Date": "7/30/2025",
-    "End of Support Date": "7/30/2030"
-  },
-  {
-    "Model": "ThinkPad X13 Gen 5",
-    "Machine Types": "21LU, 21LV",
-    "Announce Date": "5/28/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad X13 Gen 5",
-    "Machine Types": "21LU, 21LV",
-    "Announce Date": "5/28/2024",
-    "Last Order Date": "12/31/2025",
-    "End of Production Date": "1/31/2026",
-    "End of Support Date": "1/31/2031"
-  },
-  {
-    "Model": "ThinkPad X13 Yoga Gen 1",
-    "Machine Types": "20SX, 20SY",
-    "Announce Date": "5/19/2020",
-    "Last Order Date": "12/31/2021",
-    "End of Production Date": "1/31/2022",
-    "End of Support Date": "1/31/2027"
-  },
-  {
-    "Model": "ThinkPad X13 Yoga Gen 2",
-    "Machine Types": "20W8, 20W9",
-    "Announce Date": "4/27/2021",
-    "Last Order Date": "9/30/2023",
-    "End of Production Date": "10/30/2023",
-    "End of Support Date": "10/30/2028"
-  },
-  {
-    "Model": "ThinkPad X13 Yoga Gen 3",
-    "Machine Types": "21AW, 21AX",
-    "Announce Date": "5/30/2022",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad X13 Yoga Gen 4",
-    "Machine Types": "21F2, 21F3",
-    "Announce Date": "5/9/2023",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad X13s Gen 1",
-    "Machine Types": "21BX, 21BY",
-    "Announce Date": "4/2/2024",
-    "Last Order Date": "7/1/2025",
-    "End of Production Date": "8/1/2025",
-    "End of Support Date": "8/1/2030"
-  },
-  {
-    "Model": "ThinkPad X270",
-    "Machine Types": "20K5, 20K6, 20HM, 20HN",
-    "Announce Date": "2/7/2017",
-    "Last Order Date": "2/29/2020",
-    "End of Production Date": "3/29/2020",
-    "End of Support Date": "3/29/2025"
-  },
-  {
-    "Model": "ThinkPad X280",
-    "Machine Types": "20KE, 20KF",
-    "Announce Date": "2/6/2018",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad X380 Yoga",
-    "Machine Types": "20LJ, 20LH",
-    "Announce Date": "2/6/2018",
-    "Last Order Date": "6/30/2020",
-    "End of Production Date": "7/30/2020",
-    "End of Support Date": "7/30/2025"
-  },
-  {
-    "Model": "ThinkPad X390",
-    "Machine Types": "20Q0, 20Q1, 20SC, 20SD",
-    "Announce Date": "3/19/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad X390 Yoga",
-    "Machine Types": "20NQ, 20NN",
-    "Announce Date": "4/30/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad X395",
-    "Machine Types": "20NL, 20NM",
-    "Announce Date": "6/4/2019",
-    "Last Order Date": "12/31/2020",
-    "End of Production Date": "1/31/2021",
-    "End of Support Date": "1/31/2026"
-  },
-  {
-    "Model": "ThinkPad X9-14 Gen 1",
-    "Machine Types": "21QB, 21QA",
-    "Announce Date": "1/17/2025",
-    "Last Order Date": "7/31/2027",
-    "End of Production Date": "8/31/2027",
-    "End of Support Date": "8/31/2032"
-  },
-  {
-    "Model": "ThinkPad X9-15 Gen 1",
-    "Machine Types": "21Q6, 21Q7",
-    "Announce Date": "1/15/2025",
-    "Last Order Date": "7/31/2027",
-    "End of Production Date": "8/31/2027",
-    "End of Support Date": "8/31/2032"
-  },
-  {
-    "Model": "ThinkPad Z13 Gen 1",
-    "Machine Types": "21D3, 21D2",
-    "Announce Date": "5/24/2022",
-    "Last Order Date": "3/31/2024",
-    "End of Production Date": "5/1/2024",
-    "End of Support Date": "5/1/2029"
-  },
-  {
-    "Model": "ThinkPad Z13 Gen 2",
-    "Machine Types": "21JW, 21JV",
-    "Announce Date": "11/21/2023",
-    "Last Order Date": "12/31/2024",
-    "End of Production Date": "1/31/2025",
-    "End of Support Date": "1/31/2030"
-  },
-  {
-    "Model": "ThinkPad Z16 Gen 1",
-    "Machine Types": "21D5,21D4",
-    "Announce Date": "6/6/2022",
-    "Last Order Date": "3/31/2024",
-    "End of Production Date": "5/1/2024",
-    "End of Support Date": "5/1/2029"
-  },
-  {
-    "Model": "ThinkPad Z16 Gen 2",
-    "Machine Types": "21JX, 21JY",
-    "Announce Date": "11/2/2023",
-    "Last Order Date": "9/30/2025",
-    "End of Production Date": "10/30/2025",
-    "End of Support Date": "10/30/2030"
-  }
+ {
+   "Model": "ThinkPad 11e ",
+   "Machine Types": "20ED, 20EE, 20DA, 20D9",
+   "Announce Date": "4/1/2015",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad 11e Gen 2",
+   "Machine Types": "20E6, 20E8",
+   "Announce Date": "4/1/2015",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad 11e Gen 3",
+   "Machine Types": "20GB, 20G9",
+   "Announce Date": "2/1/2016",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad 11e Gen 4",
+   "Machine Types": "20HV, 20HT",
+   "Announce Date": "3/1/2017",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad 11e Gen 5",
+   "Machine Types": "20LQ, 20LR",
+   "Announce Date": "10/24/2022",
+   "Last Order Date Target": "6/30/2022",
+   "End of Production Date": "7/30/2022",
+   "End of Support Date": "7/30/2027"
+ },
+ {
+   "Model": "ThinkPad 11e Yoga ",
+   "Machine Types": " 20DA, 20D9",
+   "Announce Date": "6/1/2014",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad 11e Yoga Gen 5",
+   "Machine Types": "20LM, 20LN",
+   "Announce Date": "10/24/2022",
+   "Last Order Date Target": "3/31/2023",
+   "End of Production Date": "5/1/2023",
+   "End of Support Date": "5/1/2028"
+ },
+ {
+   "Model": "ThinkPad 11e Yoga Gen 6",
+   "Machine Types": "20SE, 20SF",
+   "Announce Date": "3/25/2020",
+   "Last Order Date Target": "6/30/2022",
+   "End of Production Date": "7/30/2022",
+   "End of Support Date": "7/30/2027"
+ },
+ {
+   "Model": "ThinkPad 13",
+   "Machine Types": "20GJ, 20GK",
+   "Announce Date": "3/1/2016",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad 13 Gen 2",
+   "Machine Types": "20J1, 20J2",
+   "Announce Date": "12/1/2016",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad A275",
+   "Machine Types": "20KD, 20KC",
+   "Announce Date": "9/1/2017",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad A285",
+   "Machine Types": "20MW, 20MX",
+   "Announce Date": "8/28/2018",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad A475",
+   "Machine Types": "20KL, 20KM",
+   "Announce Date": "9/1/2017",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad A485",
+   "Machine Types": "20MU, 20MV",
+   "Announce Date": "7/18/2018",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E14",
+   "Machine Types": "20RA, 20RB",
+   "Announce Date": "10/1/2019",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E14 Gen 2",
+   "Machine Types": "20TA, 20TB",
+   "Announce Date": "11/10/2020",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E14 Gen 2 AMD",
+   "Machine Types": "20T6, 20T7",
+   "Announce Date": "5/25/2021",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E14 Gen 3 AMD",
+   "Machine Types": "20Y7, 20YD, 20YE, 20YF",
+   "Announce Date": "5/18/2021",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E14 Gen 4",
+   "Machine Types": "21E3, 21E4",
+   "Announce Date": "5/17/2022",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E14 Gen 4 AMD",
+   "Machine Types": "21EB, 21EC",
+   "Announce Date": "3/22/2022",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E14 Gen 5",
+   "Machine Types": "21JL, 21JK",
+   "Announce Date": "9/26/2023",
+   "Last Order Date Target": "5/31/2025",
+   "End of Production Date": "7/1/2025",
+   "End of Support Date": "7/1/2030"
+ },
+ {
+   "Model": "ThinkPad E14 Gen 5 AMD",
+   "Machine Types": "21JS, 21JR",
+   "Announce Date": "8/22/2023",
+   "Last Order Date Target": "5/31/2025",
+   "End of Production Date": "7/1/2025",
+   "End of Support Date": "7/1/2030"
+ },
+ {
+   "Model": "ThinkPad E14 Gen 6",
+   "Machine Types": "21M7, 21M8",
+   "Announce Date": "3/19/2024",
+   "Last Order Date Target": "9/30/2025",
+   "End of Production Date": "10/30/2025",
+   "End of Support Date": "10/30/2030"
+ },
+ {
+   "Model": "ThinkPad E14 Gen 6 AMD",
+   "Machine Types": "21M4, 21M3",
+   "Announce Date": "4/9/2024",
+   "Last Order Date Target": "3/31/2026",
+   "End of Production Date": "5/1/2026",
+   "End of Support Date": "5/1/2031"
+ },
+ {
+   "Model": "ThinkPad E15",
+   "Machine Types": "20RD, 20RE",
+   "Announce Date": "11/5/2019",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E15 Gen 2",
+   "Machine Types": "20TD, 20TE",
+   "Announce Date": "11/10/2020",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E15 Gen 2 AMD",
+   "Machine Types": "20T8, 20T9",
+   "Announce Date": "7/7/2020",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E15 Gen 3 AMD",
+   "Machine Types": "20YG, 20YH, 20YJ, 20YK",
+   "Announce Date": "5/18/2021",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E15 Gen 4",
+   "Machine Types": "21E6, 21E7",
+   "Announce Date": "5/17/2022",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E15 Gen 4 AMD",
+   "Machine Types": "21ED, 21EE",
+   "Announce Date": "3/22/2022",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E16 Gen 1",
+   "Machine Types": "21JN, 21JQ",
+   "Announce Date": "9/26/2023",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E16 Gen 1 AMD",
+   "Machine Types": "21JT, 21JU",
+   "Announce Date": "8/22/2023",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E16 Gen 2",
+   "Machine Types": "21MA, 21MB",
+   "Announce Date": "3/19/2024",
+   "Last Order Date Target": "9/30/2025",
+   "End of Production Date": "10/30/2025",
+   "End of Support Date": "10/30/2030"
+ },
+ {
+   "Model": "ThinkPad E16 Gen 2 AMD",
+   "Machine Types": "21M5, 21M6",
+   "Announce Date": "4/9/2024",
+   "Last Order Date Target": "3/31/2026",
+   "End of Production Date": "5/1/2026",
+   "End of Support Date": "5/1/2031"
+ },
+ {
+   "Model": "ThinkPad E450",
+   "Machine Types": "20DC",
+   "Announce Date": "1/1/2015",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E455",
+   "Machine Types": "20DE",
+   "Announce Date": "1/1/2015",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E460",
+   "Machine Types": "20ET",
+   "Announce Date": "11/1/2015",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E465",
+   "Machine Types": "20EX",
+   "Announce Date": "11/1/2015",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E470",
+   "Machine Types": "20H1",
+   "Announce Date": "9/1/2016",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E475",
+   "Machine Types": "20H4",
+   "Announce Date": "11/1/2016",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E480",
+   "Machine Types": "20KN, 20KQ",
+   "Announce Date": "12/26/2017",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E485",
+   "Machine Types": "20KU",
+   "Announce Date": "7/1/2018",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E490",
+   "Machine Types": "20N8, 20N9",
+   "Announce Date": "12/25/2018",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E490s",
+   "Machine Types": "20NG",
+   "Announce Date": "3/19/2019",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E495",
+   "Machine Types": "20NE",
+   "Announce Date": "4/30/2019",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E550",
+   "Machine Types": "20DF",
+   "Announce Date": "1/1/2015",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E560",
+   "Machine Types": "20EV",
+   "Announce Date": "11/1/2015",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E565",
+   "Machine Types": "20EY",
+   "Announce Date": "11/1/2015",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E570",
+   "Machine Types": "20H5",
+   "Announce Date": "9/1/2016",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E575",
+   "Machine Types": "20H8",
+   "Announce Date": "11/1/2016",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E580",
+   "Machine Types": "20KS",
+   "Announce Date": "1/9/2018",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E585",
+   "Machine Types": "20KV",
+   "Announce Date": "6/1/2018",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E590",
+   "Machine Types": "20NB, 20NC",
+   "Announce Date": "12/25/2018",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad E595",
+   "Machine Types": "20NF",
+   "Announce Date": "4/30/2019",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad L13 2-in-1 Gen 5",
+   "Machine Types": "21LN, 21LM",
+   "Announce Date": "4/19/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad L13 Gen 1",
+   "Machine Types": "20R3, 20R4",
+   "Announce Date": "10/29/2019",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad L13 Gen 2",
+   "Machine Types": "20VH, 20VJ",
+   "Announce Date": "11/3/2020",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad L13 Gen 2 AMD",
+   "Machine Types": "21AB, 21AC",
+   "Announce Date": "7/21/2021",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad L13 Gen 3",
+   "Machine Types": "21B4, 21B3",
+   "Announce Date": "4/20/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad L13 Gen 3 AMD",
+   "Machine Types": "21B9, 21BA",
+   "Announce Date": "4/14/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad L13 Gen 4",
+   "Machine Types": "21FG, 21FH",
+   "Announce Date": "12/26/2023",
+   "Last Order Date Target": "6/30/2025",
+   "End of Production Date": "7/30/2025",
+   "End of Support Date": "7/30/2030"
+ },
+ {
+   "Model": "ThinkPad L13 Gen 4 AMD",
+   "Machine Types": "21FQ, 21FN",
+   "Announce Date": "12/26/2023",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad L13 Gen 5",
+   "Machine Types": "21LB, 21LC",
+   "Announce Date": "4/19/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad L13 Gen 5",
+   "Machine Types": "21LC, 21LB",
+   "Announce Date": "4/19/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad L13 Yoga Gen 1",
+   "Machine Types": "20R5, 20R6",
+   "Announce Date": "10/29/2019",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad L13 Yoga Gen 2",
+   "Machine Types": "20VL, 20VK",
+   "Announce Date": "12/15/2020",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad L13 Yoga Gen 2 AMD",
+   "Machine Types": "21AE, 21AD",
+   "Announce Date": "7/21/2021",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad L13 Yoga Gen 3 ",
+   "Machine Types": "21B6, 21B5",
+   "Announce Date": "4/20/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad L13 Yoga Gen 3 AMD",
+   "Machine Types": "21BB, 21BC",
+   "Announce Date": "7/19/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad L13 Yoga Gen 4",
+   "Machine Types": "21FK, 21FJ",
+   "Announce Date": "9/30/2023",
+   "Last Order Date Target": "6/30/2025",
+   "End of Production Date": "7/30/2025",
+   "End of Support Date": "7/30/2030"
+ },
+ {
+   "Model": "ThinkPad L13 Yoga Gen 4 AMD",
+   "Machine Types": "21FS, 21FR",
+   "Announce Date": "12/26/2023",
+   "Last Order Date Target": "9/30/2025",
+   "End of Production Date": "10/30/2025",
+   "End of Support Date": "10/30/2030"
+ },
+ {
+   "Model": "ThinkPad L14 Gen 1 ",
+   "Machine Types": "20U1, 20U2",
+   "Announce Date": "5/19/2020",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad L14 Gen 1 AMD",
+   "Machine Types": "20U5, 20U6",
+   "Announce Date": "7/21/2020",
+   "Last Order Date Target": "6/30/2022",
+   "End of Production Date": "7/30/2022",
+   "End of Support Date": "7/30/2027"
+ },
+ {
+   "Model": "ThinkPad L14 Gen 2",
+   "Machine Types": "20X2, 20X1",
+   "Announce Date": "12/29/2020",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad L14 Gen 2 AMD",
+   "Machine Types": "20X5, 20X6",
+   "Announce Date": "5/4/2021",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad L14 Gen 3",
+   "Machine Types": "21C1, 21C2",
+   "Announce Date": "5/12/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad L14 Gen 3 AMD",
+   "Machine Types": "21C6, 21C5",
+   "Announce Date": "4/19/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad L14 Gen 4",
+   "Machine Types": "21H2, 21H1",
+   "Announce Date": "5/9/2023",
+   "Last Order Date Target": "6/30/2025",
+   "End of Production Date": "7/30/2025",
+   "End of Support Date": "7/30/2030"
+ },
+ {
+   "Model": "ThinkPad L14 Gen 4 AMD",
+   "Machine Types": "21H6, 21H5",
+   "Announce Date": "3/29/2023",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad L14 Gen 5 ",
+   "Machine Types": "21L1, 21L2",
+   "Announce Date": "4/16/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad L14 Gen 5 AMD",
+   "Machine Types": "21L5, 21L6",
+   "Announce Date": "3/19/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad L15 AMD Gen 4",
+   "Machine Types": "21H7, 21H8",
+   "Announce Date": "3/29/2023",
+   "Last Order Date Target": "6/30/2025",
+   "End of Production Date": "7/30/2025",
+   "End of Support Date": "7/30/2030"
+ },
+ {
+   "Model": "ThinkPad L15 Gen 1",
+   "Machine Types": "20U3, 20U4",
+   "Announce Date": "5/19/2020",
+   "Last Order Date Target": "12/31/2021",
+   "End of Production Date": "1/31/2022",
+   "End of Support Date": "1/31/2027"
+ },
+ {
+   "Model": "ThinkPad L15 Gen 1 AMD",
+   "Machine Types": "20U8, 20U7",
+   "Announce Date": "7/21/2020",
+   "Last Order Date Target": "12/31/2021",
+   "End of Production Date": "1/31/2022",
+   "End of Support Date": "1/31/2027"
+ },
+ {
+   "Model": "ThinkPad L15 Gen 2",
+   "Machine Types": "20X3, 20X4",
+   "Announce Date": "12/29/2020",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad L15 Gen 2 AMD",
+   "Machine Types": "20X8, 20X7",
+   "Announce Date": "5/4/2021",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad L15 Gen 3",
+   "Machine Types": "21C3, 21C4",
+   "Announce Date": "5/12/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad L15 Gen 3 AMD",
+   "Machine Types": "21C8, 21C7",
+   "Announce Date": "3/7/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad L15 Gen 4",
+   "Machine Types": "21H4, 21H3",
+   "Announce Date": "5/9/2023",
+   "Last Order Date Target": "6/30/2025",
+   "End of Production Date": "7/30/2025",
+   "End of Support Date": "7/30/2030"
+ },
+ {
+   "Model": "ThinkPad L15 Gen 4 AMD",
+   "Machine Types": "21H7, 21H8",
+   "Announce Date": "3/29/2023",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad L16 Gen 1",
+   "Machine Types": "21L4, 21L3",
+   "Announce Date": "4/16/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad L16 Gen 1 AMD",
+   "Machine Types": "21L8, 21L7",
+   "Announce Date": "3/19/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad L380",
+   "Machine Types": "20M5, 20M6",
+   "Announce Date": "2/13/2018",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad L380 Yoga",
+   "Machine Types": "20M8, 20M7",
+   "Announce Date": "2/13/2018",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad L390",
+   "Machine Types": "20NS, 20NR",
+   "Announce Date": "12/25/2018",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad L390 Yoga",
+   "Machine Types": "20NT, 20NU",
+   "Announce Date": "12/25/2018",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad L460",
+   "Machine Types": "20FU, 20FV",
+   "Announce Date": "1/1/2016",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad L470",
+   "Machine Types": "20J4, 20J5, 20JU, 20JV",
+   "Announce Date": "1/31/2017",
+   "Last Order Date Target": "2/29/2020",
+   "End of Production Date": "3/29/2020",
+   "End of Support Date": "3/29/2025"
+ },
+ {
+   "Model": "ThinkPad L480",
+   "Machine Types": "20LS, 20LT",
+   "Announce Date": "2/6/2018",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad L490",
+   "Machine Types": "20Q5, 20Q6",
+   "Announce Date": "6/4/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad L560",
+   "Machine Types": "20F1, 20F2",
+   "Announce Date": "2/1/2016",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad L570",
+   "Machine Types": "20JQ, 20JR, 20J8, 20J9",
+   "Announce Date": "3/31/2017",
+   "Last Order Date Target": "2/29/2020",
+   "End of Production Date": "3/29/2020",
+   "End of Support Date": "3/29/2025"
+ },
+ {
+   "Model": "ThinkPad L580",
+   "Machine Types": "20LW, 20LX",
+   "Announce Date": "2/6/2018",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad L590",
+   "Machine Types": "20Q8, 20Q7",
+   "Announce Date": "6/4/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad P1",
+   "Machine Types": "20MD, 20ME",
+   "Announce Date": "8/28/2018",
+   "Last Order Date Target": "3/31/2020",
+   "End of Production Date": "5/1/2020",
+   "End of Support Date": "5/1/2025"
+ },
+ {
+   "Model": "ThinkPad P1 Gen 2",
+   "Machine Types": "20QT, 20QU",
+   "Announce Date": "7/2/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad P1 Gen 3",
+   "Machine Types": "20TJ, 20TH",
+   "Announce Date": "8/4/2020",
+   "Last Order Date Target": "12/31/2021",
+   "End of Production Date": "1/31/2022",
+   "End of Support Date": "1/31/2027"
+ },
+ {
+   "Model": "ThinkPad P1 Gen 3",
+   "Machine Types": "20TJ, 20TH",
+   "Announce Date": "8/4/2020",
+   "Last Order Date Target": "12/31/2021",
+   "End of Production Date": "1/31/2022",
+   "End of Support Date": "1/31/2027"
+ },
+ {
+   "Model": "ThinkPad P1 Gen 4",
+   "Machine Types": "20Y3, 20Y4",
+   "Announce Date": "6/8/2021",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad P1 Gen 5",
+   "Machine Types": "21DD, 21DC",
+   "Announce Date": "4/26/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad P1 Gen 6",
+   "Machine Types": "21FW, 21FV",
+   "Announce Date": "6/7/2024",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad P1 Gen 7",
+   "Machine Types": "21KV, 21KW",
+   "Announce Date": "5/28/2024",
+   "Last Order Date Target": "3/31/2026",
+   "End of Production Date": "5/1/2026",
+   "End of Support Date": "5/1/2031"
+ },
+ {
+   "Model": "ThinkPad P14 Gen 5 AMD",
+   "Machine Types": "21MF, 21ME",
+   "Announce Date": "5/14/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad P14s Gen 1",
+   "Machine Types": "20S4, 20S5",
+   "Announce Date": "5/5/2020",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad P14s Gen 1 AMD",
+   "Machine Types": "20Y1, 20Y2",
+   "Announce Date": "10/15/2020",
+   "Last Order Date Target": "6/30/2022",
+   "End of Production Date": "7/30/2022",
+   "End of Support Date": "7/30/2027"
+ },
+ {
+   "Model": "ThinkPad P14s Gen 2",
+   "Machine Types": "20VW, 20VX",
+   "Announce Date": "2/23/2021",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad P14s Gen 2 AMD",
+   "Machine Types": "21A1, 21A0",
+   "Announce Date": "6/1/2021",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad P14s Gen 3",
+   "Machine Types": "21AL, 21AK",
+   "Announce Date": "3/22/2022",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad P14s Gen 3 AMD",
+   "Machine Types": "21J6, 21J5",
+   "Announce Date": "9/13/2022",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkPad P14s Gen 4",
+   "Machine Types": "21HF, 21HG",
+   "Announce Date": "5/30/2023",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad P14s Gen 4 AMD",
+   "Machine Types": "21K5, 21K6",
+   "Announce Date": "7/11/2023",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad P14s Gen 5",
+   "Machine Types": "21G2, 21G3",
+   "Announce Date": "7/19/2024",
+   "Last Order Date Target": "3/31/2026",
+   "End of Production Date": "5/1/2026",
+   "End of Support Date": "5/1/2031"
+ },
+ {
+   "Model": "ThinkPad P14s Gen 5 AMD",
+   "Machine Types": "21MF, 21ME",
+   "Announce Date": "5/14/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad P15 Gen 1",
+   "Machine Types": "20ST, 20SU",
+   "Announce Date": "7/21/2020",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad P15 Gen 2",
+   "Machine Types": "20YR, 20YQ",
+   "Announce Date": "6/8/2021",
+   "Last Order Date Target": "6/30/2023",
+   "End of Production Date": "7/30/2023",
+   "End of Support Date": "7/30/2028"
+ },
+ {
+   "Model": "ThinkPad P15s Gen 1",
+   "Machine Types": "20T5, 20T4",
+   "Announce Date": "5/5/2020",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad P15s Gen 2",
+   "Machine Types": "20W7, 20W6",
+   "Announce Date": "2/23/2021",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad P15v Gen 1",
+   "Machine Types": "20RE, 20TQ",
+   "Announce Date": "8/4/2020",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad P15v Gen 2",
+   "Machine Types": "21AA, 21A9",
+   "Announce Date": "7/20/2021",
+   "Last Order Date Target": "6/30/2023",
+   "End of Production Date": "7/30/2023",
+   "End of Support Date": "7/30/2028"
+ },
+ {
+   "Model": "ThinkPad P15v Gen 3",
+   "Machine Types": "21D8, 21D9",
+   "Announce Date": "4/26/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad P15v Gen 3 AMD",
+   "Machine Types": "21EN, 21EM",
+   "Announce Date": "8/23/2022",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkPad P16 Gen 1",
+   "Machine Types": "21D6, 21D7",
+   "Announce Date": "5/31/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad P16 Gen 2",
+   "Machine Types": "21FB, 21FA",
+   "Announce Date": "4/9/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad P16s Gen 1",
+   "Machine Types": "21BT, 21BU",
+   "Announce Date": "3/22/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad P16s Gen 1 AMD",
+   "Machine Types": "21CK, 21CL",
+   "Announce Date": "7/19/2022",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkPad P16s Gen 2",
+   "Machine Types": "21KS, 21KT",
+   "Announce Date": "10/15/2024",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad P16s Gen 2 AMD",
+   "Machine Types": "21K9, 21KA",
+   "Announce Date": "9/17/2024",
+   "Last Order Date Target": "9/30/2025",
+   "End of Production Date": "10/30/2025",
+   "End of Support Date": "10/30/2030"
+ },
+ {
+   "Model": "ThinkPad P16s Gen 3",
+   "Machine Types": "21KS, 21KT",
+   "Announce Date": "10/15/2024",
+   "Last Order Date Target": "3/31/2026",
+   "End of Production Date": "5/1/2026",
+   "End of Support Date": "5/1/2031"
+ },
+ {
+   "Model": "ThinkPad P16v Gen 1",
+   "Machine Types": "21FC, 21FD",
+   "Announce Date": "8/22/2023",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad P16v Gen 1 AMD",
+   "Machine Types": "21FF, 21FE",
+   "Announce Date": "9/27/2023",
+   "Last Order Date Target": "9/30/2025",
+   "End of Production Date": "10/30/2025",
+   "End of Support Date": "10/30/2030"
+ },
+ {
+   "Model": "ThinkPad P16v Gen 2",
+   "Machine Types": "21KX,21KY",
+   "Announce Date": "4/23/2024",
+   "Last Order Date Target": "3/31/2026",
+   "End of Production Date": "5/1/2026",
+   "End of Support Date": "5/1/2031"
+ },
+ {
+   "Model": "ThinkPad P17 Gen 1",
+   "Machine Types": "20SQ, 20SN",
+   "Announce Date": "7/28/2020",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad P17 Gen 2",
+   "Machine Types": "20YV, 20YU",
+   "Announce Date": "6/15/2021",
+   "Last Order Date Target": "6/30/2023",
+   "End of Production Date": "7/30/2023",
+   "End of Support Date": "7/30/2028"
+ },
+ {
+   "Model": "ThinkPad P43s",
+   "Machine Types": "20RH, 20RJ",
+   "Announce Date": "7/23/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad P50s",
+   "Machine Types": "20FK, 20FL",
+   "Announce Date": "1/1/2016",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad P51",
+   "Machine Types": "20HH, 20MM",
+   "Announce Date": "3/31/2017",
+   "Last Order Date Target": "2/29/2020",
+   "End of Production Date": "3/29/2020",
+   "End of Support Date": "3/29/2025"
+ },
+ {
+   "Model": "ThinkPad P51s",
+   "Machine Types": "20HB, 20JY",
+   "Announce Date": "5/1/2017",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad P52",
+   "Machine Types": "20MA, 20M9",
+   "Announce Date": "6/19/2018",
+   "Last Order Date Target": "3/31/2020",
+   "End of Production Date": "5/1/2020",
+   "End of Support Date": "5/1/2025"
+ },
+ {
+   "Model": "ThinkPad P52s",
+   "Machine Types": "20LC, 20LB",
+   "Announce Date": "2/6/2018",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad P53",
+   "Machine Types": "20QQ, 20QN",
+   "Announce Date": "7/23/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad P53s",
+   "Machine Types": "20N7, 20N6",
+   "Announce Date": "7/30/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad P71",
+   "Machine Types": "20HK, 20HL",
+   "Announce Date": "4/1/2017",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad P72",
+   "Machine Types": "20MB, 20MC",
+   "Announce Date": "9/4/2018",
+   "Last Order Date Target": "3/31/2020",
+   "End of Production Date": "5/1/2020",
+   "End of Support Date": "5/1/2025"
+ },
+ {
+   "Model": "ThinkPad P73",
+   "Machine Types": "20QR, 20QS",
+   "Announce Date": "8/13/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad T14 Gen 1",
+   "Machine Types": "20S1, 20S0",
+   "Announce Date": "5/5/2020",
+   "Last Order Date Target": "12/31/2021",
+   "End of Production Date": "1/31/2022",
+   "End of Support Date": "1/31/2027"
+ },
+ {
+   "Model": "ThinkPad T14 Gen 1 AMD",
+   "Machine Types": "20UE, 20UD",
+   "Announce Date": "6/2/2020",
+   "Last Order Date Target": "6/30/2022",
+   "End of Production Date": "7/30/2022",
+   "End of Support Date": "7/30/2027"
+ },
+ {
+   "Model": "ThinkPad T14 Gen 2",
+   "Machine Types": "20w0, 20w1",
+   "Announce Date": "2/23/2021",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad T14 Gen 2 AMD",
+   "Machine Types": "20XK, 20XL",
+   "Announce Date": "6/1/2021",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad T14 Gen 3",
+   "Machine Types": "21AH, 21AJ",
+   "Announce Date": "8/30/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad T14 Gen 3 AMD",
+   "Machine Types": "21CF, 21CG",
+   "Announce Date": "7/19/2022",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkPad T14 Gen 4",
+   "Machine Types": "21F6, 21F7",
+   "Announce Date": "4/26/2023",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad T14 Gen 4 AMD",
+   "Machine Types": "21K3, 21K4",
+   "Announce Date": "7/11/2023",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad T14 Gen 4 Intel",
+   "Machine Types": "21HD, 21HE",
+   "Announce Date": "9/26/2023",
+   "Last Order Date Target": "6/30/2025",
+   "End of Production Date": "7/30/2025",
+   "End of Support Date": "7/30/2030"
+ },
+ {
+   "Model": "ThinkPad T14 Gen 5 ",
+   "Machine Types": "21MM, 21ML",
+   "Announce Date": "4/16/2024",
+   "Last Order Date Target": "9/30/2026",
+   "End of Production Date": "10/30/2026",
+   "End of Support Date": "10/30/2031"
+ },
+ {
+   "Model": "ThinkPad T14 Gen 5 AMD",
+   "Machine Types": "21MC, 21MD",
+   "Announce Date": "6/11/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad T14 Gen 5 Intel",
+   "Machine Types": "21ML, 21MM",
+   "Announce Date": "5/28/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad T14s Gen 1",
+   "Machine Types": "20T1, 20T0",
+   "Announce Date": "5/22/2020",
+   "Last Order Date Target": "12/31/2021",
+   "End of Production Date": "1/31/2022",
+   "End of Support Date": "1/31/2027"
+ },
+ {
+   "Model": "ThinkPad T14s Gen 1 AMD",
+   "Machine Types": "20UJ, 20UH",
+   "Announce Date": "6/2/2020",
+   "Last Order Date Target": "6/30/2022",
+   "End of Production Date": "7/30/2022",
+   "End of Support Date": "7/30/2027"
+ },
+ {
+   "Model": "ThinkPad T14s Gen 2",
+   "Machine Types": "20WN, 20WN",
+   "Announce Date": "3/22/2021",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad T14s Gen 2 AMD",
+   "Machine Types": "20XF, 20XG",
+   "Announce Date": "7/31/2021",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad T14s Gen 3",
+   "Machine Types": "21BR, 21BS",
+   "Announce Date": "4/12/2022",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad T14s Gen 3 AMD",
+   "Machine Types": "21CQ, 21CR",
+   "Announce Date": "7/19/2022",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkPad T14s Gen 4",
+   "Machine Types": "21F6, 21F7",
+   "Announce Date": "9/26/2023",
+   "Last Order Date Target": "3/31/2025",
+   "End of Production Date": "5/1/2025",
+   "End of Support Date": "5/1/2030"
+ },
+ {
+   "Model": "ThinkPad T14s Gen 4 AMD",
+   "Machine Types": "21F9, 21F8",
+   "Announce Date": "8/25/2023",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad T14s Gen 5",
+   "Machine Types": "21LT, 21LS",
+   "Announce Date": "9/3/2024",
+   "Last Order Date Target": "2/25/2026",
+   "End of Production Date": "3/25/2026",
+   "End of Support Date": "3/25/2031"
+ },
+ {
+   "Model": "ThinkPad T14s Gen 6",
+   "Machine Types": "21N1, 21N2",
+   "Announce Date": "9/19/2024",
+   "Last Order Date Target": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
+   "Model": "ThinkPad T14s Gen 6 AMD ",
+   "Machine Types": "21M1, 21M2",
+   "Announce Date": "10/23/2024",
+   "Last Order Date Target": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
+   "Model": "ThinkPad T15 Gen 1",
+   "Machine Types": "20S6, 20S7",
+   "Announce Date": "5/5/2020",
+   "Last Order Date Target": "12/31/2021",
+   "End of Production Date": "1/31/2022",
+   "End of Support Date": "1/31/2027"
+ },
+ {
+   "Model": "ThinkPad T15 Gen 1 AMD",
+   "Machine Types": "20U8, 20U7",
+   "Announce Date": "7/21/2020",
+   "Last Order Date Target": "6/30/2022",
+   "End of Production Date": "7/30/2022",
+   "End of Support Date": "7/30/2027"
+ },
+ {
+   "Model": "ThinkPad T15 Gen 2",
+   "Machine Types": "20W5, 20W4",
+   "Announce Date": "2/23/2021",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad T15g Gen 1",
+   "Machine Types": "20UR, 20US",
+   "Announce Date": "8/25/2020",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad T15g Gen 2",
+   "Machine Types": "20YS, 20YT",
+   "Announce Date": "6/8/2021",
+   "Last Order Date Target": "6/30/2023",
+   "End of Production Date": "7/30/2023",
+   "End of Support Date": "7/30/2028"
+ },
+ {
+   "Model": "ThinkPad T15p Gen 1",
+   "Machine Types": "20TM, 20TN",
+   "Announce Date": "8/4/2020",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad T15p Gen 2",
+   "Machine Types": "21A8, 21A7",
+   "Announce Date": "7/20/2021",
+   "Last Order Date Target": "6/30/2023",
+   "End of Production Date": "7/30/2023",
+   "End of Support Date": "7/30/2028"
+ },
+ {
+   "Model": "ThinkPad T15p Gen 3",
+   "Machine Types": "21DA, 21DB",
+   "Announce Date": "4/26/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad T16 Gen 1",
+   "Machine Types": "21BV, 21 BW",
+   "Announce Date": "5/31/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad T16 Gen 1 AMD",
+   "Machine Types": "21CJ, 21CH",
+   "Announce Date": "7/19/2022",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkPad T16 Gen 2",
+   "Machine Types": "21HH, 21HJ",
+   "Announce Date": "4/25/2023",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad T16 Gen 2 AMD",
+   "Machine Types": "21K8, 21K7",
+   "Announce Date": "7/26/2024",
+   "Last Order Date Target": "9/30/2025",
+   "End of Production Date": "10/30/2025",
+   "End of Support Date": "10/30/2030"
+ },
+ {
+   "Model": "ThinkPad T16 Gen 2 Intel",
+   "Machine Types": "21HH, 21HJ",
+   "Announce Date": "4/25/2023",
+   "Last Order Date Target": "6/30/2025",
+   "End of Production Date": "7/30/2025",
+   "End of Support Date": "7/30/2030"
+ },
+ {
+   "Model": "ThinkPad T16 Gen 3",
+   "Machine Types": "21MN, 21MQ",
+   "Announce Date": "4/16/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad T470",
+   "Machine Types": "20HE, 20HD, 20KM, 20JN",
+   "Announce Date": "1/31/2017",
+   "Last Order Date Target": "2/29/2020",
+   "End of Production Date": "3/29/2020",
+   "End of Support Date": "3/29/2025"
+ },
+ {
+   "Model": "ThinkPad T470s",
+   "Machine Types": "20JS, 20JT, 20HF, 20HT",
+   "Announce Date": "2/14/2017",
+   "Last Order Date Target": "2/29/2020",
+   "End of Production Date": "3/29/2020",
+   "End of Support Date": "3/29/2025"
+ },
+ {
+   "Model": "ThinkPad T480",
+   "Machine Types": "20L5, 20L6",
+   "Announce Date": "2/6/2018",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad T480s",
+   "Machine Types": "20L8, 20L7",
+   "Announce Date": "1/29/2018",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad T490",
+   "Machine Types": "20N2, 20N3, 20RX, 20RY",
+   "Announce Date": "3/19/2019",
+   "Last Order Date Target": "10/21/2019",
+   "End of Production Date": "11/21/2019",
+   "End of Support Date": "11/21/2024"
+ },
+ {
+   "Model": "ThinkPad T490s",
+   "Machine Types": "20NX, 20NY",
+   "Announce Date": "3/19/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad T495",
+   "Machine Types": "20NK, 20NJ",
+   "Announce Date": "5/28/2019",
+   "Last Order Date Target": "3/31/2021",
+   "End of Production Date": "5/1/2021",
+   "End of Support Date": "5/1/2026"
+ },
+ {
+   "Model": "ThinkPad T495s",
+   "Machine Types": "20QJ, 20AK",
+   "Announce Date": "6/4/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad T580",
+   "Machine Types": "20LA, 20L9",
+   "Announce Date": "2/6/2018",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad T590",
+   "Machine Types": "20N4, 20N5",
+   "Announce Date": "3/19/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad X1 2-in-1 Gen 9",
+   "Machine Types": "21KF, 21KE",
+   "Announce Date": "9/3/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad X1 Carbon Gen 10",
+   "Machine Types": "21CB, 21CC",
+   "Announce Date": "3/15/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad X1 Carbon Gen 11",
+   "Machine Types": "21HM, 21HN",
+   "Announce Date": "11/2/2024",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad X1 Carbon Gen 12",
+   "Machine Types": "21KD, 21KC",
+   "Announce Date": "9/3/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad X1 Carbon Gen 13",
+   "Machine Types": "21NS",
+   "Announce Date": "11/5/2024",
+   "Last Order Date Target": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
+   "Model": "ThinkPad X1 Carbon Gen 2",
+   "Machine Types": "20A7, 20A8",
+   "Announce Date": "1/1/2014",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad X1 Carbon Gen 3",
+   "Machine Types": "20BS, 20BT",
+   "Announce Date": "1/1/2015",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad X1 Carbon Gen 4",
+   "Machine Types": "20FB, 20FC",
+   "Announce Date": "2/1/2016",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad X1 Carbon Gen 5",
+   "Machine Types": "20HQ, 20HR, 20K3, 20K4",
+   "Announce Date": "2/1/2017",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad X1 Carbon Gen 6",
+   "Machine Types": "20KH, 20KG",
+   "Announce Date": "2/6/2018",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad X1 Carbon Gen 7",
+   "Machine Types": "20QD, 20QE, 20R1, 20R2",
+   "Announce Date": "6/18/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad X1 Carbon Gen 8",
+   "Machine Types": "20U9, 20UA",
+   "Announce Date": "4/28/2020",
+   "Last Order Date Target": "12/31/2021",
+   "End of Production Date": "1/31/2022",
+   "End of Support Date": "1/31/2027"
+ },
+ {
+   "Model": "ThinkPad X1 Carbon Gen 9",
+   "Machine Types": "20XW, 20XX",
+   "Announce Date": "3/2/2021",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad X1 Extreme",
+   "Machine Types": "20MF, 20MG",
+   "Announce Date": "8/28/2018",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad X1 Extreme Gen 2",
+   "Machine Types": "20QW, 20QV",
+   "Announce Date": "7/16/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad X1 Extreme Gen 3",
+   "Machine Types": "20TL, 20TK",
+   "Announce Date": "8/4/2020",
+   "Last Order Date Target": "12/31/2021",
+   "End of Production Date": "1/31/2022",
+   "End of Support Date": "1/31/2027"
+ },
+ {
+   "Model": "ThinkPad X1 Extreme Gen 4",
+   "Machine Types": "20Y6, 20Y5",
+   "Announce Date": "7/20/2021",
+   "Last Order Date Target": "6/30/2023",
+   "End of Production Date": "7/30/2023",
+   "End of Support Date": "7/30/2028"
+ },
+ {
+   "Model": "ThinkPad X1 Extreme Gen 5",
+   "Machine Types": "21DE, 21DF",
+   "Announce Date": "7/12/2022",
+   "Last Order Date Target": "3/31/2023",
+   "End of Production Date": "5/1/2023",
+   "End of Support Date": "5/1/2028"
+ },
+ {
+   "Model": "ThinkPad X1 Fold 16 Gen 1 ",
+   "Machine Types": "21ES, 21ET",
+   "Announce Date": "4/25/2023",
+   "Last Order Date Target": "6/30/2024",
+   "End of Production Date": "7/30/2024",
+   "End of Support Date": "7/30/2029"
+ },
+ {
+   "Model": "ThinkPad X1 Fold Gen 1",
+   "Machine Types": "20RK, 20RL",
+   "Announce Date": "9/1/2020",
+   "Last Order Date Target": "9/30/2022",
+   "End of Production Date": "10/30/2022",
+   "End of Support Date": "10/30/2027"
+ },
+ {
+   "Model": "ThinkPad X1 Nano Gen 1",
+   "Machine Types": "20UN, 20UQ",
+   "Announce Date": "12/8/2020",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad X1 Nano Gen 2",
+   "Machine Types": "21E9, 21E8",
+   "Announce Date": "4/29/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad X1 Nano Gen 3",
+   "Machine Types": "21K1, 21K2",
+   "Announce Date": "4/19/2023",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkPad X1 Tablet Gen 3",
+   "Machine Types": "20KJ, 20KK",
+   "Announce Date": "3/27/2018",
+   "Last Order Date Target": "6/30/2021",
+   "End of Production Date": "7/30/2021",
+   "End of Support Date": "7/30/2026"
+ },
+ {
+   "Model": "ThinkPad X1 Titanium Gen 1",
+   "Machine Types": "20QA, 20QB",
+   "Announce Date": "1/26/2021",
+   "Last Order Date Target": "6/30/2022",
+   "End of Production Date": "7/30/2022",
+   "End of Support Date": "7/30/2027"
+ },
+ {
+   "Model": "ThinkPad X1 Titanium Yoga Gen 1",
+   "Machine Types": "20QA, 20QB",
+   "Announce Date": "2/9/2021",
+   "Last Order Date Target": "1/31/2023",
+   "End of Production Date": "3/3/2023",
+   "End of Support Date": "3/3/2028"
+ },
+ {
+   "Model": "ThinkPad X1 Yoga Gen 1",
+   "Machine Types": "20FQ, 20FR, 1286, 1291, 1292, 1293, 1294, 1295, 1296",
+   "Announce Date": "2/1/2017",
+   "Last Order Date Target": "",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad X1 Yoga Gen 3",
+   "Machine Types": "20LD, 20LF",
+   "Announce Date": "2/6/2018",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad X1 Yoga Gen 4",
+   "Machine Types": "20QF, 20QG, 20SA, 20SB",
+   "Announce Date": "6/18/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad X1 Yoga Gen 5",
+   "Machine Types": "20UB, 20UC",
+   "Announce Date": "4/28/2020",
+   "Last Order Date Target": "12/31/2021",
+   "End of Production Date": "1/31/2022",
+   "End of Support Date": "1/31/2027"
+ },
+ {
+   "Model": "ThinkPad X1 Yoga Gen 6",
+   "Machine Types": "20XY, 20Y0",
+   "Announce Date": "3/2/2021",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad X1 Yoga Gen 7",
+   "Machine Types": "21CE, 21CD",
+   "Announce Date": "3/15/2022",
+   "Last Order Date Target": "12/31/2022",
+   "End of Production Date": "1/31/2023",
+   "End of Support Date": "1/31/2028"
+ },
+ {
+   "Model": "ThinkPad X1 Yoga Gen 8",
+   "Machine Types": "21HQ, 21HR",
+   "Announce Date": "9/26/2023",
+   "Last Order Date Target": "3/31/2025",
+   "End of Production Date": "5/1/2025",
+   "End of Support Date": "5/1/2030"
+ },
+ {
+   "Model": "ThinkPad X12 Gen 1 Detachable",
+   "Machine Types": "20UW, 20UV",
+   "Announce Date": "7/4/2023",
+   "Last Order Date Target": "9/30/2024",
+   "End of Production Date": "10/30/2024",
+   "End of Support Date": "10/30/2029"
+ },
+ {
+   "Model": "ThinkPad X12 Gen 2 Detachable",
+   "Machine Types": "21LK, 21LL",
+   "Announce Date": "6/10/2024",
+   "Last Order Date Target": "3/30/2026",
+   "End of Production Date": "4/30/2026",
+   "End of Support Date": "4/30/2031"
+ },
+ {
+   "Model": "ThinkPad X13 2-in1 Gen 5",
+   "Machine Types": "21LX, 21LW",
+   "Announce Date": "4/2/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad X13 Gen 1",
+   "Machine Types": "20T2, 20T3",
+   "Announce Date": "5/22/2020",
+   "Last Order Date Target": "12/31/2021",
+   "End of Production Date": "1/31/2022",
+   "End of Support Date": "1/31/2027"
+ },
+ {
+   "Model": "ThinkPad X13 Gen 1 AMD",
+   "Machine Types": "20UF, 20UG",
+   "Announce Date": "6/2/2020",
+   "Last Order Date Target": "6/30/2022",
+   "End of Production Date": "7/30/2022",
+   "End of Support Date": "7/30/2027"
+ },
+ {
+   "Model": "ThinkPad X13 Gen 2",
+   "Machine Types": "20WK, 20WL",
+   "Announce Date": "3/22/2021",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad X13 Gen 2 AMD",
+   "Machine Types": "20XJ, 20XH",
+   "Announce Date": "7/31/2021",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad X13 Gen 3",
+   "Machine Types": "21BQ, 21BN",
+   "Announce Date": "4/12/2022",
+   "Last Order Date Target": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "ThinkPad X13 Gen 3 AMD",
+   "Machine Types": "21CN, 21CM",
+   "Announce Date": "9/30/2022",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkPad X13 Gen 4",
+   "Machine Types": "21EX, 21EY",
+   "Announce Date": "5/9/2023",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad X13 Gen 4 AMD",
+   "Machine Types": "21J3, 21J4",
+   "Announce Date": "10/23/2024",
+   "Last Order Date Target": "6/30/2025",
+   "End of Production Date": "7/30/2025",
+   "End of Support Date": "7/30/2030"
+ },
+ {
+   "Model": "ThinkPad X13 Gen 5",
+   "Machine Types": "21LU, 21LV",
+   "Announce Date": "5/28/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad X13 Gen 5",
+   "Machine Types": "21LU, 21LV",
+   "Announce Date": "5/28/2024",
+   "Last Order Date Target": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad X13 Yoga Gen 1",
+   "Machine Types": "20SX, 20SY",
+   "Announce Date": "5/19/2020",
+   "Last Order Date Target": "12/31/2021",
+   "End of Production Date": "1/31/2022",
+   "End of Support Date": "1/31/2027"
+ },
+ {
+   "Model": "ThinkPad X13 Yoga Gen 2",
+   "Machine Types": "20W8, 20W9",
+   "Announce Date": "4/27/2021",
+   "Last Order Date Target": "9/30/2023",
+   "End of Production Date": "10/30/2023",
+   "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad X13 Yoga Gen 3",
+   "Machine Types": "21AW, 21AX",
+   "Announce Date": "5/30/2022",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad X13 Yoga Gen 4",
+   "Machine Types": "21F2, 21F3",
+   "Announce Date": "5/9/2023",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad X13s Gen 1 ",
+   "Machine Types": "21BX, 21BY",
+   "Announce Date": "4/2/2024",
+   "Last Order Date Target": "7/1/2025",
+   "End of Production Date": "8/1/2025",
+   "End of Support Date": "8/1/2030"
+ },
+ {
+   "Model": "ThinkPad X270",
+   "Machine Types": "20K5, 20K6, 20HM, 20HN",
+   "Announce Date": "2/7/2017",
+   "Last Order Date Target": "2/29/2020",
+   "End of Production Date": "3/29/2020",
+   "End of Support Date": "3/29/2025"
+ },
+ {
+   "Model": "ThinkPad X280",
+   "Machine Types": "20KE, 20KF",
+   "Announce Date": "2/6/2018",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad X380 Yoga",
+   "Machine Types": "20LJ, 20LH",
+   "Announce Date": "2/6/2018",
+   "Last Order Date Target": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad X390",
+   "Machine Types": "20Q0, 20Q1, 20SC, 20SD",
+   "Announce Date": "3/19/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad X390 Yoga",
+   "Machine Types": "20NQ, 20NN",
+   "Announce Date": "4/30/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad X395",
+   "Machine Types": "20NL, 20NM",
+   "Announce Date": "6/4/2019",
+   "Last Order Date Target": "12/31/2020",
+   "End of Production Date": "1/31/2021",
+   "End of Support Date": "1/31/2026"
+ },
+ {
+   "Model": "ThinkPad X9-14 Gen 1",
+   "Machine Types": "21QB, 21QA",
+   "Announce Date": "1/17/2025",
+   "Last Order Date Target": "7/31/2027",
+   "End of Production Date": "8/31/2027",
+   "End of Support Date": "8/31/2032"
+ },
+ {
+   "Model": "ThinkPad X9-15 Gen 1",
+   "Machine Types": "21Q6, 21Q7",
+   "Announce Date": "1/15/2025",
+   "Last Order Date Target": "7/31/2027",
+   "End of Production Date": "8/31/2027",
+   "End of Support Date": "8/31/2032"
+ },
+ {
+   "Model": "ThinkPad Z13 Gen 1",
+   "Machine Types": "21D3, 21D2",
+   "Announce Date": "5/24/2022",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkPad Z13 Gen 2",
+   "Machine Types": "21JW, 21JV",
+   "Announce Date": "11/21/2023",
+   "Last Order Date Target": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad Z16 Gen 1",
+   "Machine Types": "21D5,21D4",
+   "Announce Date": "6/6/2022",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkPad Z16 Gen 2",
+   "Machine Types": "21JX, 21JY",
+   "Announce Date": "11/2/2023",
+   "Last Order Date Target": "9/30/2025",
+   "End of Production Date": "10/30/2025",
+   "End of Support Date": "10/30/2030"
+ },
+ {
+   "Model": "ThinkStation P2 Tower Gen 2",
+   "Machine Types": "30FS, 30FR ",
+   "Announce Date": "2/4/2025",
+   "Last Order Date Target": "9/30/2026",
+   "End of Production Date": "10/30/2026",
+   "End of Support Date": "10/30/2031"
+ },
+ {
+   "Model": "ThinkStation P3 Tiny Gen 2",
+   "Machine Types": "30H1, 30H0",
+   "Announce Date": "8/27/2024",
+   "Last Order Date Target": "12/31/2027",
+   "End of Production Date": "1/31/2028",
+   "End of Support Date": "1/31/2033"
+ },
+ {
+   "Model": "ThinkStation P3 Tower Gen 2 ",
+   "Machine Types": "30GS, 30GU",
+   "Announce Date": "10/8/2024",
+   "Last Order Date Target": "9/30/2026",
+   "End of Production Date": "10/30/2026",
+   "End of Support Date": "10/30/2031"
+ },
+ {
+   "Model": "ThinkStation P3 Ultra Gen 2",
+   "Machine Types": "30HA, 30HB",
+   "Announce Date": "10/29/2024",
+   "Last Order Date Target": "9/30/2026",
+   "End of Production Date": "10/30/2026",
+   "End of Support Date": "10/30/2031"
+ },
+ {
+   "Model": "ThinkStation P358",
+   "Machine Types": "30GK, 30GL",
+   "Announce Date": "12/13/2022",
+   "Last Order Date Target": "6/30/2024",
+   "End of Production Date": "7/30/2024",
+   "End of Support Date": "7/30/2029"
+ },
+ {
+   "Model": "ThinkStation P360 Tiny",
+   "Machine Types": "30FC, 30FB, 30FD",
+   "Announce Date": "3/18/2022",
+   "Last Order Date Target": "6/30/2024",
+   "End of Production Date": "7/30/2024",
+   "End of Support Date": "7/30/2029"
+ },
+ {
+   "Model": "ThinkStation P5 Tower",
+   "Machine Types": "30G9, 30GA",
+   "Announce Date": "11/5/2024",
+   "Last Order Date Target": "9/30/2026",
+   "End of Production Date": "10/30/2026",
+   "End of Support Date": "10/30/2031"
+ },
+ {
+   "Model": "ThinkStation P520 Tower",
+   "Machine Types": "30BX, 30BY",
+   "Announce Date": "1/25/2018",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkStation P520 Tower",
+   "Machine Types": "30BE, 30BF",
+   "Announce Date": "1/25/2018",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkStation P520C",
+   "Machine Types": "30BX, 30BY",
+   "Announce Date": "1/25/2018",
+   "Last Order Date Target": "6/30/2024",
+   "End of Production Date": "7/30/2024",
+   "End of Support Date": "7/30/2029"
+ },
+ {
+   "Model": "ThinkStation P620",
+   "Machine Types": "30E1, 30E0",
+   "Announce Date": "6/21/2022",
+   "Last Order Date Target": "9/5/2025",
+   "End of Production Date": "10/5/2025",
+   "End of Support Date": "10/5/2030"
+ },
+ {
+   "Model": "ThinkStation P7",
+   "Machine Types": "30F2, 30F3",
+   "Announce Date": "1/16/2024",
+   "Last Order Date Target": "9/30/2026",
+   "End of Production Date": "10/30/2026",
+   "End of Support Date": "10/30/2031"
+ },
+ {
+   "Model": "ThinkStation P720 Tower",
+   "Machine Types": "30BA, 30BB",
+   "Announce Date": "9/26/2017",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkStation P8",
+   "Machine Types": "30HF, 30HH, 30HJ",
+   "Announce Date": "1/8/2024",
+   "Last Order Date Target": "3/30/2027",
+   "End of Production Date": "4/30/2027",
+   "End of Support Date": "4/30/2032"
+ },
+ {
+   "Model": "ThinkStation P920 Tower",
+   "Machine Types": "30BC, 30BD",
+   "Announce Date": "2/9/2018",
+   "Last Order Date Target": "3/31/2024",
+   "End of Production Date": "5/1/2024",
+   "End of Support Date": "5/1/2029"
+ },
+ {
+   "Model": "ThinkStation PX",
+   "Machine Types": "30EU, 30EV",
+   "Announce Date": "11/26/2024",
+   "Last Order Date Target": "9/30/2026",
+   "End of Production Date": "10/30/2026",
+   "End of Support Date": "10/30/2031"
+ }
 ]
