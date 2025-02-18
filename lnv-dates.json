@@ -1,6 +1,86 @@
 [
  {
-   "Model": "ThinkPad 11e ",
+   "Model": "Lenovo 100w Gen 3",
+   "Machine Types": "82HY, 82JO",
+   "Announce Date": "5/24/2022",
+   "Last Order Date": "6/30/2023",
+   "End of Production Date": "7/30/2023",
+   "End of Support Date": "7/30/2028"
+ },
+ {
+   "Model": "Lenovo 100w Gen 4",
+   "Machine Types": "82VK, 82VL",
+   "Announce Date": "4/24/2023",
+   "Last Order Date": "6/30/2025",
+   "End of Production Date": "7/30/2025",
+   "End of Support Date": "7/30/2030"
+ },
+ {
+   "Model": "Lenovo 13w Gen 2",
+   "Machine Types": "82YR, 82YS",
+   "Announce Date": "6/2/2023",
+   "Last Order Date": "6/30/2025",
+   "End of Production Date": "7/30/2025",
+   "End of Support Date": "7/30/2030"
+ },
+ {
+   "Model": "Lenovo 14w Gen 2",
+   "Machine Types": "82N8, 82N9",
+   "Announce Date": "3/28/2023",
+   "Last Order Date": "6/30/2023",
+   "End of Production Date": "7/30/2023",
+   "End of Support Date": "7/30/2028"
+ },
+ {
+   "Model": "Lenovo 300w Gen 3",
+   "Machine Types": "82J1, 82J2",
+   "Announce Date": "1/10/2023",
+   "Last Order Date": "6/30/2023",
+   "End of Production Date": "7/30/2023",
+   "End of Support Date": "7/30/2028"
+ },
+ {
+   "Model": "Lenovo 300w Gen 4",
+   "Machine Types": "82VM, 82VN",
+   "Announce Date": "7/16/2024",
+   "Last Order Date": "6/30/2025",
+   "End of Production Date": "7/30/2025",
+   "End of Support Date": "7/30/2030"
+ },
+ {
+   "Model": "Lenovo 500w Gen 3",
+   "Machine Types": "82J3, 82J4",
+   "Announce Date": "7/19/2022",
+   "Last Order Date": "6/30/2023",
+   "End of Production Date": "7/30/2023",
+   "End of Support Date": "7/30/2028"
+ },
+ {
+   "Model": "Lenovo 500w Gen 4",
+   "Machine Types": "82VQ, 82VR",
+   "Announce Date": "5/15/2024",
+   "Last Order Date": "6/30/2025",
+   "End of Production Date": "7/30/2025",
+   "End of Support Date": "7/30/2030"
+ },
+ {
+   "Model": "Lenovo K14 Gen 1",
+   "Machine Types": "21CS, 21CT",
+   "Announce Date": "4/16/2024",
+   "Last Order Date": "12/31/2023",
+   "End of Production Date": "1/31/2024",
+   "End of Support Date": "1/31/2029"
+ },
+ {
+   "Model": "Lenovo K14 Gen 2",
+   "Machine Types": "21G1, 21G0",
+   "Announce Date": "4/16/2024",
+   "Last Order Date": "12/31/2024",
+   "End of Production Date": "1/31/2025",
+   "End of Support Date": "1/31/2030"
+ },
+ {
+   "Model": "ThinkPad 11e",
    "Machine Types": "20ED, 20EE, 20DA, 20D9",
    "Announce Date": "4/1/2015",
    "Last Order Date": "6/30/2020",
@@ -1963,17 +2043,9 @@
    "Model": "ThinkPad X13 Gen 5",
    "Machine Types": "21LU, 21LV",
    "Announce Date": "5/28/2024",
-   "Last Order Date": "12/31/2025",
-   "End of Production Date": "1/31/2026",
-   "End of Support Date": "1/31/2031"
- },
- {
-   "Model": "ThinkPad X13 Gen 5",
-   "Machine Types": "21LU, 21LV",
-   "Announce Date": "5/28/2024",
-   "Last Order Date": "12/31/2025",
-   "End of Production Date": "1/31/2026",
-   "End of Support Date": "1/31/2031"
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
  },
  {
    "Model": "ThinkPad X13 Yoga Gen 1",
@@ -2166,14 +2238,6 @@
    "Last Order Date": "9/30/2026",
    "End of Production Date": "10/30/2026",
    "End of Support Date": "10/30/2031"
- },
- {
-   "Model": "ThinkStation P520 Tower",
-   "Machine Types": "30BX, 30BY",
-   "Announce Date": "1/25/2018",
-   "Last Order Date": "3/31/2024",
-   "End of Production Date": "5/1/2024",
-   "End of Support Date": "5/1/2029"
  },
  {
    "Model": "ThinkStation P520 Tower",
