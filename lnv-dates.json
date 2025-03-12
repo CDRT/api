@@ -1897,7 +1897,7 @@
  },
  {
    "Model": "ThinkPad X1 Yoga Gen 1",
-   "Machine Types": "20FQ, 20FR, 1286, 1291, 1292, 1293, 1294, 1295, 1296",
+   "Machine Types": "20FQ, 20FR",
    "Announce Date": "2/1/2017",
    "Last Order Date": "",
    "End of Production Date": "",
@@ -2265,7 +2265,7 @@
  },
  {
    "Model": "ThinkStation P7",
-   "Machine Types": "30F2, 30F3",
+   "Machine Types": "30F2, 30F3, 30F4, 30F7",
    "Announce Date": "1/16/2024",
    "Last Order Date": "9/30/2026",
    "End of Production Date": "10/30/2026",
@@ -2281,7 +2281,7 @@
  },
  {
    "Model": "ThinkStation P8",
-   "Machine Types": "30HF, 30HH, 30HJ",
+   "Machine Types": "30HF, 30HH, 30HJ, 30HM",
    "Announce Date": "1/8/2024",
    "Last Order Date": "3/30/2027",
    "End of Production Date": "4/30/2027",
