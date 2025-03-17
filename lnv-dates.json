@@ -1587,9 +1587,9 @@
    "Model": "ThinkPad T16 Gen 2 AMD",
    "Machine Types": "21K8, 21K7",
    "Announce Date": "7/26/2024",
-   "Last Order Date": "9/30/2025",
-   "End of Production Date": "10/30/2025",
-   "End of Support Date": "10/30/2030"
+   "Last Order Date": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
  },
  {
    "Model": "ThinkPad T16 Gen 2 Intel",
@@ -1897,7 +1897,7 @@
  },
  {
    "Model": "ThinkPad X1 Yoga Gen 1",
-   "Machine Types": "20FQ, 20FR",
+   "Machine Types": "20FQ, 20FR, 1286, 1291, 1292, 1293, 1294, 1295, 1296",
    "Announce Date": "2/1/2017",
    "Last Order Date": "",
    "End of Production Date": "",
@@ -1963,9 +1963,9 @@
    "Model": "ThinkPad X12 Gen 2 Detachable",
    "Machine Types": "21LK, 21LL",
    "Announce Date": "6/10/2024",
-   "Last Order Date": "3/30/2026",
-   "End of Production Date": "4/30/2026",
-   "End of Support Date": "4/30/2031"
+   "Last Order Date": "3/31/2026",
+   "End of Production Date": "5/1/2026",
+   "End of Support Date": "5/1/2031"
  },
  {
    "Model": "ThinkPad X13 2-in1 Gen 5",
@@ -2043,9 +2043,9 @@
    "Model": "ThinkPad X13 Gen 5",
    "Machine Types": "21LU, 21LV",
    "Announce Date": "5/28/2024",
-   "Last Order Date": "12/31/2026",
-   "End of Production Date": "1/31/2027",
-   "End of Support Date": "1/31/2032"
+   "Last Order Date": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
  },
  {
    "Model": "ThinkPad X13 Yoga Gen 1",
@@ -2265,7 +2265,7 @@
  },
  {
    "Model": "ThinkStation P7",
-   "Machine Types": "30F2, 30F3, 30F4, 30F7",
+   "Machine Types": "30F2, 30F3",
    "Announce Date": "1/16/2024",
    "Last Order Date": "9/30/2026",
    "End of Production Date": "10/30/2026",
@@ -2281,7 +2281,7 @@
  },
  {
    "Model": "ThinkStation P8",
-   "Machine Types": "30HF, 30HH, 30HJ, 30HM",
+   "Machine Types": "30HF, 30HH, 30HJ",
    "Announce Date": "1/8/2024",
    "Last Order Date": "3/30/2027",
    "End of Production Date": "4/30/2027",
