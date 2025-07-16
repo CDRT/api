@@ -192,6 +192,22 @@
    "End of Support Date": "7/30/2031"
  },
  {
+   "Model": "ThinkPad E14 Gen 7",
+   "Machine Types": "21T9, 21SX, 21SY, 21TA",
+   "Announce Date": "6/10/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
+   "Model": "ThinkPad E14 Gen 7 AMD",
+   "Machine Types": "21T1, 21T0",
+   "Announce Date": "6/26/2025",
+   "Last Order Date": "11/30/2026",
+   "End of Production Date": "1/1/2027",
+   "End of Support Date": "1/1/2032"
+ },
+ {
    "Model": "ThinkPad E15",
    "Machine Types": "20RD, 20RE",
    "Announce Date": "11/5/2019",
@@ -270,6 +286,22 @@
    "Last Order Date": "3/31/2026",
    "End of Production Date": "5/1/2026",
    "End of Support Date": "5/1/2031"
+ },
+ {
+   "Model": "ThinkPad E16 Gen 3",
+   "Machine Types": "21TF, 21SS, 21SR, 21TG",
+   "Announce Date": "6/10/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
+   "Model": "ThinkPad E16 Gen 3 AMD",
+   "Machine Types": "21ST, 21SU",
+   "Announce Date": "1/1/2025",
+   "Last Order Date": "11/30/2026",
+   "End of Production Date": "12/30/2026",
+   "End of Support Date": "12/30/2031"
  },
  {
    "Model": "ThinkPad E450",
@@ -648,6 +680,22 @@
    "End of Support Date": "1/31/2031"
  },
  {
+   "Model": "ThinkPad L14 Gen 6",
+   "Machine Types": "216, 21S7",
+   "Announce Date": "6/6/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
+   "Model": "ThinkPad L14 Gen 6 AMD",
+   "Machine Types": "21S8, 21S9",
+   "Announce Date": "7/10/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
    "Model": "ThinkPad L15 AMD Gen 4",
    "Machine Types": "21H7, 21H8",
    "Announce Date": "3/29/2023",
@@ -734,6 +782,22 @@
    "Last Order Date": "12/31/2025",
    "End of Production Date": "1/31/2026",
    "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad L16 Gen 2",
+   "Machine Types": "21SB, 21SA",
+   "Announce Date": "6/6/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
+   "Model": "ThinkPad L16 Gen 2 AMD",
+   "Machine Types": "21SC, 21SD",
+   "Announce Date": "7/10/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
  },
  {
    "Model": "ThinkPad L380",
@@ -984,6 +1048,14 @@
    "End of Support Date": "1/31/2031"
  },
  {
+   "Model": "ThinkPad P14s Gen 6 AMD",
+   "Machine Types": "21RV, 21QM, 21QL",
+   "Announce Date": "5/23/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
    "Model": "ThinkPad P15 Gen 1",
    "Machine Types": "20ST, 20SU",
    "Announce Date": "7/21/2020",
@@ -1102,6 +1174,14 @@
    "Last Order Date": "3/31/2026",
    "End of Production Date": "5/1/2026",
    "End of Support Date": "5/1/2031"
+ },
+ {
+   "Model": "ThinkPad P16s Gen 4",
+   "Machine Types": "21QR, 21QS, 21RY, 21RX",
+   "Announce Date": "5/23/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
  },
  {
    "Model": "ThinkPad P16v Gen 1",
@@ -1336,6 +1416,22 @@
    "End of Support Date": "1/31/2032"
  },
  {
+   "Model": "ThinkPad T14 Gen 6 AMD",
+   "Machine Types": "21QK, 21QJ",
+   "Announce Date": "5/22/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
+   "Model": "ThinkPad T14s 2-in-1 Gen 1",
+   "Machine Types": "21R4, 21R3",
+   "Announce Date": "6/26/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
    "Model": "ThinkPad T14s Gen 1",
    "Machine Types": "20T1, 20T0",
    "Announce Date": "5/22/2020",
@@ -1411,17 +1507,17 @@
    "Model": "ThinkPad T14s Gen 6",
    "Machine Types": "21N1, 21N2",
    "Announce Date": "9/19/2024",
-   "Last Order Date": "9/30/2026",
-   "End of Production Date": "10/30/2026",
-   "End of Support Date": "10/30/2031"
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
  },
  {
    "Model": "ThinkPad T14s Gen 6 AMD ",
    "Machine Types": "21M1, 21M2",
    "Announce Date": "10/23/2024",
-   "Last Order Date": "12/31/2026",
-   "End of Production Date": "1/31/2027",
-   "End of Support Date": "1/31/2032"
+   "Last Order Date": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
  },
  {
    "Model": "ThinkPad T15 Gen 1",
@@ -1446,6 +1542,14 @@
    "Last Order Date": "9/30/2023",
    "End of Production Date": "10/30/2023",
    "End of Support Date": "10/30/2028"
+ },
+ {
+   "Model": "ThinkPad T15 Gen 3",
+   "Machine Types": "",
+   "Announce Date": "",
+   "Last Order Date": "12/31/2027",
+   "End of Production Date": "1/31/2028",
+   "End of Support Date": "1/31/2033"
  },
  {
    "Model": "ThinkPad T15g Gen 1",
@@ -1534,6 +1638,22 @@
    "Last Order Date": "12/31/2025",
    "End of Production Date": "1/31/2026",
    "End of Support Date": "1/31/2031"
+ },
+ {
+   "Model": "ThinkPad T16 Gen 4",
+   "Machine Types": "21QF, 21QE",
+   "Announce Date": "6/10/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
+   "Model": "ThinkPad T16 Gen 4 AMD",
+   "Machine Types": "21QN, 21QQ",
+   "Announce Date": "6/17/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
  },
  {
    "Model": "ThinkPad T470",
@@ -1984,6 +2104,22 @@
    "End of Support Date": "1/31/2031"
  },
  {
+   "Model": "ThinkPad X13 Gen 6",
+   "Machine Types": "21KR, 21RL",
+   "Announce Date": "6/17/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
+   "Model": "ThinkPad X13 Gen 6 AMD",
+   "Machine Types": "21RM, 21RN",
+   "Announce Date": "7/10/2025",
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
+ },
+ {
    "Model": "ThinkPad X13 Yoga Gen 1",
    "Machine Types": "20SX, 20SY",
    "Announce Date": "5/19/2020",
@@ -2120,12 +2256,28 @@
    "End of Support Date": "10/30/2030"
  },
  {
+   "Model": "ThinkStation P2 ",
+   "Machine Types": "30FS, 30FR ",
+   "Announce Date": "2/22/2024",
+   "Last Order Date": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
    "Model": "ThinkStation P2 Tower Gen 2",
    "Machine Types": "30FS, 30FR ",
    "Announce Date": "2/4/2025",
    "Last Order Date": "9/30/2026",
    "End of Production Date": "10/30/2026",
    "End of Support Date": "10/30/2031"
+ },
+ {
+   "Model": "ThinkStation P3 Tiny",
+   "Machine Types": "30H1, 30H0",
+   "Announce Date": "8/27/2024",
+   "Last Order Date": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
  },
  {
    "Model": "ThinkStation P3 Tiny Gen 2",
@@ -2136,12 +2288,28 @@
    "End of Support Date": "1/31/2033"
  },
  {
+   "Model": "ThinkStation P3 Tower",
+   "Machine Types": "30GU, 30GS",
+   "Announce Date": "10/8/2024",
+   "Last Order Date": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
+ },
+ {
    "Model": "ThinkStation P3 Tower Gen 2 ",
    "Machine Types": "30GS, 30GU",
    "Announce Date": "10/8/2024",
    "Last Order Date": "9/30/2026",
    "End of Production Date": "10/30/2026",
    "End of Support Date": "10/30/2031"
+ },
+ {
+   "Model": "ThinkStation P3 Ultra",
+   "Machine Types": "30HB, 30HA",
+   "Announce Date": "10/29/2024",
+   "Last Order Date": "12/31/2025",
+   "End of Production Date": "1/31/2026",
+   "End of Support Date": "1/31/2031"
  },
  {
    "Model": "ThinkStation P3 Ultra Gen 2",
