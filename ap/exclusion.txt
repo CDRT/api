@@ -1,1 +1,1 @@
-wdfcoinstaller01011.dll,rtlCoInst.dat,rtlCoInst.dll,VantageRpcClient.pdb
+wdfcoinstaller01011.dll,rtlCoInst.dat,rtlCoInst.dll,VantageRpcClient.pdb,mtkbtfilter.sys
