@@ -2304,20 +2304,20 @@
    "End of Support Date": "10/30/2030"
  },
  {
-   "Model": "ThinkStation P2 ",
-   "Machine Types": "30FS, 30FR ",
-   "Announce Date": "2/22/2024",
-   "Last Order Date": "12/31/2025",
-   "End of Production Date": "1/31/2026",
-   "End of Support Date": "1/31/2031"
+   "Model": "ThinkStation PGX",
+   "Machine Types": "30KL, 30KM",
+   "Announce Date": "3/1/2026",
+   "Last Order Date": "9/30/2027",
+   "End of Production Date": "10/31/2027",
+   "End of Support Date": "10/31/2032"
  },
  {
    "Model": "ThinkStation P2 Tower Gen 2",
    "Machine Types": "30FS, 30FR ",
    "Announce Date": "2/4/2025",
-   "Last Order Date": "9/30/2026",
-   "End of Production Date": "10/30/2026",
-   "End of Support Date": "10/30/2031"
+   "Last Order Date": "12/31/2027",
+   "End of Production Date": "1/31/2028",
+   "End of Support Date": "1/31/2033"
  },
  {
    "Model": "ThinkStation P3 Tiny Gen 2",
@@ -2331,17 +2331,89 @@
    "Model": "ThinkStation P3 Tower Gen 2 ",
    "Machine Types": "30GS, 30GU",
    "Announce Date": "10/8/2024",
-   "Last Order Date": "9/30/2026",
-   "End of Production Date": "10/30/2026",
-   "End of Support Date": "10/30/2031"
+   "Last Order Date": "12/31/2027",
+   "End of Production Date": "1/31/2028",
+   "End of Support Date": "1/31/2033"
  },
  {
    "Model": "ThinkStation P3 Ultra Gen 2",
    "Machine Types": "30HA, 30HB",
    "Announce Date": "10/29/2024",
-   "Last Order Date": "9/30/2026",
-   "End of Production Date": "10/30/2026",
-   "End of Support Date": "10/30/2031"
+   "Last Order Date": "12/31/2027",
+   "End of Production Date": "1/31/2028",
+   "End of Support Date": "1/31/2033"
+ },
+ {
+   "Model": "ThinkStation P330 SFF Gen 2",
+   "Machine Types": "30AJ, 30AK",
+   "Announce Date": "5/1/2014",
+   "Last Order Date": "3/31/2021",
+   "End of Production Date": "4/26/2021",
+   "End of Support Date": "4/30/2026"
+ },
+ {
+   "Model": "ThinkStation P330 Tower",
+   "Machine Types": "30CS",
+   "Announce Date": "10/2/2018",
+   "Last Order Date": "3/15/2023",
+   "End of Production Date": "4/30/2023",
+   "End of Support Date": "4/30/2028"
+ },
+ {
+   "Model": "ThinkStation P330 Tower Gen 2",
+   "Machine Types": "30AG, 30AH",
+   "Announce Date": "5/1/2014",
+   "Last Order Date": "3/31/2021",
+   "End of Production Date": "4/26/2021",
+   "End of Support Date": "4/30/2026"
+ },
+ {
+   "Model": "ThinkStation P340 SFF",
+   "Machine Types": "30DL, 30DK",
+   "Announce Date": "10/11/2022",
+   "Last Order Date": "3/15/2023",
+   "End of Production Date": "4/30/2023",
+   "End of Support Date": "4/30/2028"
+ },
+ {
+   "Model": "ThinkStation P340 Tiny",
+   "Machine Types": "30DR, 30DE, 30DF",
+   "Announce Date": "3/29/2022",
+   "Last Order Date": "3/15/2023",
+   "End of Production Date": "4/30/2023",
+   "End of Support Date": "4/30/2028"
+ },
+ {
+   "Model": "ThinkStation P348 Tower",
+   "Machine Types": "30ER, 30EQ",
+   "Announce Date": "3/29/2022",
+   "Last Order Date": "4/30/2023",
+   "End of Production Date": "5/31/2023",
+   "End of Support Date": "5/31/2023"
+ },
+ {
+   "Model": "ThinkStation P350 SFF",
+   "Machine Types": "30E6, 30EF",
+   "Announce Date": "6/17/2022",
+   "Last Order Date": "3/15/2023",
+   "End of Production Date": "4/30/023",
+   "End of Support Date": "4/302028"
+ },
+ {
+   "Model": "ThinkStation P350 Tiny",
+   "Machine Types": "30EG, 30EJ, 30EF",
+   "Announce Date": "3/29/2022",
+   "Last Order Date": "3/15/2023",
+   "End of Production Date": "4/30/2023",
+   "End of Support Date": "4/30/2028"
+ },
+ {
+   "Model": "ThinkStation P350 Tower",
+   "Machine Types": "30E4, 30E3",
+   "Announce Date": "6/17/2022",
+   "Last Order Date": "3/15/2023",
+   "End of Production Date": "4/30/2023",
+   "End of Support Date": "4/30/2028"
  },
  {
    "Model": "ThinkStation P358",
@@ -2352,6 +2424,14 @@
    "End of Support Date": "7/30/2029"
  },
  {
+   "Model": "ThinkStation P358 Tower",
+   "Machine Types": "30GK, 30GL",
+   "Announce Date": "12/13/2022",
+   "Last Order Date": "6/30/2024",
+   "End of Production Date": "7/31/2024",
+   "End of Support Date": "7/31/2029"
+ },
+ {
    "Model": "ThinkStation P360 Tiny",
    "Machine Types": "30FC, 30FB, 30FD",
    "Announce Date": "3/18/2022",
@@ -2360,12 +2440,28 @@
    "End of Support Date": "7/30/2029"
  },
  {
+   "Model": "ThinkStation P360 Tower",
+   "Machine Types": "30FM, 30FN",
+   "Announce Date": "4/28/2022",
+   "Last Order Date": "6/30/2024",
+   "End of Production Date": "7/31/2024",
+   "End of Support Date": "7/31/2029"
+ },
+ {
+   "Model": "ThinkStation P360 Ultra",
+   "Machine Types": "30G1, 30G2",
+   "Announce Date": "10/11/2022",
+   "Last Order Date": "6/30/2024",
+   "End of Production Date": "7/31/2024",
+   "End of Support Date": "7/31/2029"
+ },
+ {
    "Model": "ThinkStation P5 Tower",
    "Machine Types": "30G9, 30GA",
    "Announce Date": "11/5/2024",
-   "Last Order Date": "9/30/2026",
-   "End of Production Date": "10/30/2026",
-   "End of Support Date": "10/30/2031"
+   "Last Order Date": "12/31/2026",
+   "End of Production Date": "1/31/2027",
+   "End of Support Date": "1/31/2032"
  },
  {
    "Model": "ThinkStation P520 Tower",
@@ -2379,17 +2475,17 @@
    "Model": "ThinkStation P520C",
    "Machine Types": "30BX, 30BY",
    "Announce Date": "1/25/2018",
-   "Last Order Date": "6/30/2024",
-   "End of Production Date": "7/30/2024",
-   "End of Support Date": "7/30/2029"
+   "Last Order Date": "3/31/2024",
+   "End of Production Date": "4/30/2024",
+   "End of Support Date": "4/30/2029"
  },
  {
    "Model": "ThinkStation P620",
    "Machine Types": "30E1, 30E0",
    "Announce Date": "6/21/2022",
-   "Last Order Date": "9/5/2025",
-   "End of Production Date": "10/5/2025",
-   "End of Support Date": "10/5/2030"
+   "Last Order Date": "3/31/2026",
+   "End of Production Date": "4/30/2026",
+   "End of Support Date": "4/30/2031"
  },
  {
    "Model": "ThinkStation P7",
@@ -2404,8 +2500,8 @@
    "Machine Types": "30BA, 30BB",
    "Announce Date": "9/26/2017",
    "Last Order Date": "3/31/2024",
-   "End of Production Date": "5/1/2024",
-   "End of Support Date": "5/1/2029"
+   "End of Production Date": "4/30/2024",
+   "End of Support Date": "4/30/2029"
  },
  {
    "Model": "ThinkStation P8",
@@ -2420,8 +2516,8 @@
    "Machine Types": "30BC, 30BD",
    "Announce Date": "2/9/2018",
    "Last Order Date": "3/31/2024",
-   "End of Production Date": "5/1/2024",
-   "End of Support Date": "5/1/2029"
+   "End of Production Date": "4/30/2024",
+   "End of Support Date": "4/30/2029"
  },
  {
    "Model": "ThinkStation PX",
