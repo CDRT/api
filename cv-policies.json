@@ -326,10 +326,10 @@
       "name": "System Update Repository",
       "category": "Device",
       "subCategory": "System Update",
-      "description": "Defines the repository location where System Update picks up available content. Supports UNC paths or local drives only.",
+      "description": "Defines the repository location where System Update picks up available content. Supports UNC paths, local drives, and HTTPS URLs (e.g., Azure Blob Storage).",
       "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~92B4DA2E264226B58EC3D92D3DF5B089/7D125BC7E172D57BBD95107ECECB6C0D",
       "dataElements": [
-        { "id": "7D125BC7E172D57BBD95107ECECB6C0D", "label": "Repository Path (UNC or local drive)", "type": "String", "default": "\\\\server\\repository" }
+        { "id": "7D125BC7E172D57BBD95107ECECB6C0D", "label": "Repository Path (UNC, local drive, or HTTPS URL)", "type": "String", "default": "\\\\server\\repository" }
       ]
     },
     {
@@ -468,7 +468,7 @@
       "name": "Show Pre-Install Notification",
       "category": "Device",
       "subCategory": "Auto Update",
-      "description": "When Enabled, all updates download first then a dialog prompts before installation (applies to Reboot Type 0,1,3,4,5). When Disabled or Not Configured, Reboot type 0 and 3 install automatically.",
+      "description": "When Enabled, all updates download first then a dialog prompts before installation (applies to Reboot Type 0,1,3,4,5). When Disabled or Not Configured, Reboot type 0 and 3 install automatically. (Added in v20.2509)",
       "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~92B4DA2E264226B58EC3D92D3DF5B089~5AD2D9925FD5177E61D39F61B3B4F37E/C1740AE92796891F54E1046A4DFB1630",
       "dataElements": []
     },
