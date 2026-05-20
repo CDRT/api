@@ -293,7 +293,7 @@
       "description": "Defines the Company Name displayed on System Update dialogs. Excessively long names may be truncated. (Added in v2501.15)",
       "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~92B4DA2E264226B58EC3D92D3DF5B089/1B712E2FAB2CBBC36596C1D66EEDDFED",
       "dataElements": [
-        { "id": "2E380F5F44ADD0C3911D0528A5A35CB6", "label": "Company Name", "type": "String", "default": "Your Company" }
+        { "id": "1B712E2FAB2CBBC36596C1D66EEDDFED", "label": "Company Name", "type": "String", "default": "Your Company" }
       ]
     },
     {
