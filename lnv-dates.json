@@ -1,5 +1,69 @@
 [
  {
+   "Model": "ThinkPad 11e ",
+   "Machine Types": "20ED, 20EE, 20DA, 20D9",
+   "Announce Date": "4/1/2015",
+   "Last Order Date": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad 11e Gen 2",
+   "Machine Types": "20E6, 20E8",
+   "Announce Date": "4/1/2015",
+   "Last Order Date": " ",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad 11e Gen 3",
+   "Machine Types": "20GB, 20G9",
+   "Announce Date": "2/1/2016",
+   "Last Order Date": " ",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad 11e Gen 4",
+   "Machine Types": "20HV, 20HT",
+   "Announce Date": "3/1/2017",
+   "Last Order Date": " ",
+   "End of Production Date": "",
+   "End of Support Date": ""
+ },
+ {
+   "Model": "ThinkPad 11e Gen 5",
+   "Machine Types": "20LQ, 20LR",
+   "Announce Date": "10/24/2022",
+   "Last Order Date": "6/30/2022",
+   "End of Production Date": "7/30/2022",
+   "End of Support Date": "7/30/2027"
+ },
+ {
+   "Model": "ThinkPad 11e Yoga ",
+   "Machine Types": " 20DA, 20D9",
+   "Announce Date": "6/1/2014",
+   "Last Order Date": "6/30/2020",
+   "End of Production Date": "7/30/2020",
+   "End of Support Date": "7/30/2025"
+ },
+ {
+   "Model": "ThinkPad 11e Yoga Gen 5",
+   "Machine Types": "20LM, 20LN",
+   "Announce Date": "10/24/2022",
+   "Last Order Date": "3/31/2023",
+   "End of Production Date": "4/30/2023",
+   "End of Support Date": "4/30/2028"
+ },
+ {
+   "Model": "ThinkPad 11e Yoga Gen 6",
+   "Machine Types": "20SE, 20SF",
+   "Announce Date": "3/25/2020",
+   "Last Order Date": "6/30/2022",
+   "End of Production Date": "7/30/2022",
+   "End of Support Date": "7/30/2027"
+ },
+ {
    "Model": "ThinkPad 13",
    "Machine Types": "20GJ, 20GK",
    "Announce Date": "3/1/2016",
