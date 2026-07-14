@@ -2,15 +2,16 @@
   "treeStructure": {
     "Dashboard": [],
     "Device": [
+      "Clean your device",
       "Device Settings",
       "Display and Camera",
       "Input and Accessories",
       "Microphone",
       "Power",
       "Smart Assist",
+      "Smart Modes",
       "Dolby Access",
       "Smart modes",
-      "Clean your device",
       "My Software",
       "System Update",
       "Auto Update",
@@ -428,6 +429,15 @@
       ]
     },
     {
+      "id": "TurnOnBITS",
+      "name": "Turn on BITS for Auto Update",
+      "category": "Device",
+      "subCategory": "Auto Update",
+      "description": "When enabled, Commercial Vantage uses Background Intelligent Transfer Service (BITS) to download Auto Update content. (Added in v20.2603.19.0)",
+      "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~92B4DA2E264226B58EC3D92D3DF5B089~5AD2D9925FD5177E61D39F61B3B4F37E/62B86BA376E94B76D035DADCB8433F3A",
+      "dataElements": []
+    },
+    {
       "id": "DeferUpdate",
       "name": "Defer Update",
       "category": "Device",
@@ -438,6 +448,15 @@
         { "id": "311D60F57C54D2DD03394368BDFCED99", "label": "Defer Limit (times, 0=unlimited)",  "type": "Integer", "default": "4",  "min": 0, "max": 99   },
         { "id": "95E579A1A0BABCEDAC4AF1BC81B042F4", "label": "Defer Time (minutes per deferral)", "type": "Integer", "default": "30", "min": 1, "max": 1440 }
       ]
+    },
+    {
+      "id": "ShowPreInstallNotification",
+      "name": "Show Pre-Install Notification",
+      "category": "Device",
+      "subCategory": "Auto Update",
+      "description": "When Enabled, all updates download first then a dialog prompts before installation (applies to Reboot Type 0,1,3,4,5). When Disabled or Not Configured, Reboot type 0 and 3 install automatically. (Added in v20.2509)",
+      "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~92B4DA2E264226B58EC3D92D3DF5B089~5AD2D9925FD5177E61D39F61B3B4F37E/C1740AE92796891F54E1046A4DFB1630",
+      "dataElements": []
     },
     {
       "id": "AutoUpdate",
@@ -472,24 +491,6 @@
         { "id": "C62002C924CF75712313AC1CF94525AB", "label": "Optional Firmware",        "type": "Boolean", "default": "false" },
         { "id": "9A82A62C3EF3BA2FCC142413A1FAC951", "label": "Optional Others",          "type": "Boolean", "default": "false" }
       ]
-    },
-    {
-      "id": "ShowPreInstallNotification",
-      "name": "Show Pre-Install Notification",
-      "category": "Device",
-      "subCategory": "Auto Update",
-      "description": "When Enabled, all updates download first then a dialog prompts before installation (applies to Reboot Type 0,1,3,4,5). When Disabled or Not Configured, Reboot type 0 and 3 install automatically. (Added in v20.2509)",
-      "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~92B4DA2E264226B58EC3D92D3DF5B089~5AD2D9925FD5177E61D39F61B3B4F37E/C1740AE92796891F54E1046A4DFB1630",
-      "dataElements": []
-    },
-    {
-      "id": "TurnOnBITS",
-      "name": "Turn on BITS for Auto Update",
-      "category": "Device",
-      "subCategory": "Auto Update",
-      "description": "When enabled, Commercial Vantage uses Background Intelligent Transfer Service (BITS) to download Auto Update content. (Added in v20.2603.19.0)",
-      "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~92B4DA2E264226B58EC3D92D3DF5B089~5AD2D9925FD5177E61D39F61B3B4F37E/62B86BA376E94B76D035DADCB8433F3A",
-      "dataElements": []
     },
     {
       "id": "RebootDelay",
