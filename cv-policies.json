@@ -9,7 +9,8 @@
       "Power",
       "Smart Assist",
       "Dolby Access",
-      "Modes",
+      "Smart modes",
+      "Clean your device",
       "My Software",
       "System Update",
       "Auto Update",
@@ -268,12 +269,21 @@
       "dataElements": []
     },
     {
-      "id": "TurnOffModes",
-      "name": "Turn off Modes",
+      "id": "TurnOffSmartModes",
+      "name": "Turn off Smart modes",
       "category": "Device",
-      "subCategory": "Modes",
-      "description": "Prevents end-users from using the Modes page in My Device. When enabled, the Lenovo Desktop Widget is also unavailable. (Added in v10.2407.66.0)",
-      "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~7951944913DEC79205443E57168B1CBD~DA73FA95EE6D6962459DAFAE9957BA01/6950037C7735BA43482EEC668D0C45DA",
+      "subCategory": "Smart modes",
+      "description": "Prevents end-users from using the Smart modes page in My Device. When enabled, the Lenovo Desktop Widget is also unavailable. (Renamed from Modes in v20.2603.19.0)",
+      "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~7951944913DEC79205443E57168B1CBD~1F6D526341FE3425994B9AB44C1861AD/12C11D46F588686A418AC8D13E935E01",
+      "dataElements": []
+    },
+    {
+      "id": "TurnOffCleanYourDevice",
+      "name": "Turn off Clean your device",
+      "category": "Device",
+      "subCategory": "Clean your device",
+      "description": "When this policy is enabled, the Clean your device page of Commercial Vantage will be hidden. (Added in v20.2603.19.0)",
+      "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~06D228AC8E56DCF8F1EE6B05253DC972/AB30DC81F330F079F10455FBB7BEBD52",
       "dataElements": []
     },
     {
@@ -471,6 +481,26 @@
       "description": "When Enabled, all updates download first then a dialog prompts before installation (applies to Reboot Type 0,1,3,4,5). When Disabled or Not Configured, Reboot type 0 and 3 install automatically. (Added in v20.2509)",
       "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~92B4DA2E264226B58EC3D92D3DF5B089~5AD2D9925FD5177E61D39F61B3B4F37E/C1740AE92796891F54E1046A4DFB1630",
       "dataElements": []
+    },
+    {
+      "id": "TurnOnBITS",
+      "name": "Turn on BITS for Auto Update",
+      "category": "Device",
+      "subCategory": "Auto Update",
+      "description": "When enabled, Commercial Vantage uses Background Intelligent Transfer Service (BITS) to download Auto Update content. (Added in v20.2603.19.0)",
+      "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~92B4DA2E264226B58EC3D92D3DF5B089~5AD2D9925FD5177E61D39F61B3B4F37E/62B86BA376E94B76D035DADCB8433F3A",
+      "dataElements": []
+    },
+    {
+      "id": "RebootDelay",
+      "name": "Reboot Delay for Auto Update",
+      "category": "Device",
+      "subCategory": "Auto Update",
+      "description": "When enabled, delays the automatic reboot after Auto Update installs updates that require a restart. Configure the delay in minutes. (Added in v20.2603.19.0)",
+      "omaUri": "./Device/Vendor/MSFT/Policy/Config/CommercialVantage~Policy~03E445D7B5956335BEDEF9340AC7E092~7D8BB8A33C8A8577FC2188C5539DFDBB~92B4DA2E264226B58EC3D92D3DF5B089~5AD2D9925FD5177E61D39F61B3B4F37E/F3F1A1DD19BD01E2DA2585DA028E2685",
+      "dataElements": [
+        { "id": "A177CC7E0E6711DBEC0976D105F4A5FE", "label": "Reboot delay (minutes)", "type": "Integer", "default": "5", "min": 5, "max": 60 }
+      ]
     },
     {
       "id": "HideWarrantyInformation",
